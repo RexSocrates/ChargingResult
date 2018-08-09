@@ -1,0 +1,4008 @@
+Number of devices : 2000
+Reservation scheme : Fixed scheme
+Monthly data allowance : 650000
+Default GU :    50
+Data collection period : 0.0
+
+UE ID : 1Signals : 5077
+Session successful rate :   100%
+UE ID : 2Signals : 5093
+Session successful rate :   100%
+UE ID : 3Signals : 5113
+Session successful rate :   100%
+UE ID : 4Signals : 5025
+Session successful rate :   100%
+UE ID : 5Signals : 4673
+Session successful rate :   100%
+UE ID : 6Signals : 5113
+Session successful rate :   100%
+UE ID : 7Signals : 5113
+Session successful rate :   100%
+UE ID : 8Signals : 5113
+Session successful rate :   100%
+UE ID : 9Signals : 5113
+Session successful rate :   100%
+UE ID : 10Signals : 3529
+Session successful rate :   100%
+UE ID : 11Signals : 2397
+Session successful rate :   100%
+UE ID : 12Signals : 1983
+Session successful rate :   100%
+UE ID : 13Signals : 1477
+Session successful rate :   100%
+UE ID : 14Signals : 1991
+Session successful rate :   100%
+UE ID : 15Signals : 2033
+Session successful rate :   100%
+UE ID : 16Signals : 2233
+Session successful rate :   100%
+UE ID : 17Signals : 2425
+Session successful rate :   100%
+UE ID : 18Signals : 2425
+Session successful rate :   100%
+UE ID : 19Signals : 2425
+Session successful rate :   100%
+UE ID : 20Signals : 2425
+Session successful rate :   100%
+UE ID : 21Signals : 2425
+Session successful rate :   100%
+UE ID : 22Signals : 2425
+Session successful rate :   100%
+UE ID : 23Signals : 2517
+Session successful rate :   100%
+UE ID : 24Signals : 3169
+Session successful rate :   100%
+UE ID : 25Signals : 3185
+Session successful rate :   100%
+UE ID : 26Signals : 3185
+Session successful rate :   100%
+UE ID : 27Signals : 3333
+Session successful rate :   100%
+UE ID : 28Signals : 3605
+Session successful rate :   100%
+UE ID : 29Signals : 3877
+Session successful rate :   100%
+UE ID : 30Signals : 3993
+Session successful rate :   100%
+UE ID : 31Signals : 4017
+Session successful rate :   100%
+UE ID : 32Signals : 4361
+Session successful rate :   100%
+UE ID : 33Signals : 4733
+Session successful rate :   100%
+UE ID : 34Signals : 4501
+Session successful rate :   100%
+UE ID : 35Signals : 4105
+Session successful rate :   100%
+UE ID : 36Signals : 4105
+Session successful rate :   100%
+UE ID : 37Signals : 4105
+Session successful rate :   100%
+UE ID : 38Signals : 4105
+Session successful rate :   100%
+UE ID : 39Signals : 4357
+Session successful rate :   100%
+UE ID : 40Signals : 4321
+Session successful rate :   100%
+UE ID : 41Signals : 5153
+Session successful rate :   100%
+UE ID : 42Signals : 5209
+Session successful rate :   100%
+UE ID : 43Signals : 7305
+Session successful rate :   100%
+UE ID : 44Signals : 9773
+Session successful rate :   100%
+UE ID : 45Signals : 9773
+Session successful rate :   100%
+UE ID : 46Signals : 9773
+Session successful rate :   100%
+UE ID : 47Signals : 41749
+Session successful rate :   100%
+UE ID : 48Signals : 61561
+Session successful rate :   100%
+UE ID : 49Signals : 22005
+Session successful rate :   100%
+UE ID : 50Signals : 6813
+Session successful rate :   100%
+UE ID : 51Signals : 5713
+Session successful rate :   100%
+UE ID : 52Signals : 5889
+Session successful rate :   100%
+UE ID : 53Signals : 5709
+Session successful rate :   100%
+UE ID : 54Signals : 6177
+Session successful rate :   100%
+UE ID : 55Signals : 6497
+Session successful rate :   100%
+UE ID : 56Signals : 6177
+Session successful rate :   100%
+UE ID : 57Signals : 5369
+Session successful rate :   100%
+UE ID : 58Signals : 5393
+Session successful rate :   100%
+UE ID : 59Signals : 5181
+Session successful rate :   100%
+UE ID : 60Signals : 4753
+Session successful rate :   100%
+UE ID : 61Signals : 3557
+Session successful rate :   100%
+UE ID : 62Signals : 3557
+Session successful rate :   100%
+UE ID : 63Signals : 3621
+Session successful rate :   100%
+UE ID : 64Signals : 4645
+Session successful rate :   100%
+UE ID : 65Signals : 6257
+Session successful rate :   100%
+UE ID : 66Signals : 6325
+Session successful rate :   100%
+UE ID : 67Signals : 6865
+Session successful rate :   100%
+UE ID : 68Signals : 8829
+Session successful rate :   100%
+UE ID : 69Signals : 7405
+Session successful rate :   100%
+UE ID : 70Signals : 5509
+Session successful rate :   100%
+UE ID : 71Signals : 5265
+Session successful rate :   100%
+UE ID : 72Signals : 5701
+Session successful rate :   100%
+UE ID : 73Signals : 6245
+Session successful rate :   100%
+UE ID : 74Signals : 6265
+Session successful rate :   100%
+UE ID : 75Signals : 6265
+Session successful rate :   100%
+UE ID : 76Signals : 6265
+Session successful rate :   100%
+UE ID : 77Signals : 6265
+Session successful rate :   100%
+UE ID : 78Signals : 6265
+Session successful rate :   100%
+UE ID : 79Signals : 6265
+Session successful rate :   100%
+UE ID : 80Signals : 5709
+Session successful rate :   100%
+UE ID : 81Signals : 3869
+Session successful rate :   100%
+UE ID : 82Signals : 2273
+Session successful rate :   100%
+UE ID : 83Signals : 2207
+Session successful rate :   100%
+UE ID : 84Signals : 2207
+Session successful rate :   100%
+UE ID : 85Signals : 2207
+Session successful rate :   100%
+UE ID : 86Signals : 2409
+Session successful rate :   100%
+UE ID : 87Signals : 2977
+Session successful rate :   100%
+UE ID : 88Signals : 3049
+Session successful rate :   100%
+UE ID : 89Signals : 3049
+Session successful rate :   100%
+UE ID : 90Signals : 3049
+Session successful rate :   100%
+UE ID : 91Signals : 3341
+Session successful rate :   100%
+UE ID : 92Signals : 3737
+Session successful rate :   100%
+UE ID : 93Signals : 5129
+Session successful rate :   100%
+UE ID : 94Signals : 8209
+Session successful rate :   100%
+UE ID : 95Signals : 8209
+Session successful rate :   100%
+UE ID : 96Signals : 8209
+Session successful rate :   100%
+UE ID : 97Signals : 8209
+Session successful rate :   100%
+UE ID : 98Signals : 8213
+Session successful rate :   100%
+UE ID : 99Signals : 8209
+Session successful rate :   100%
+UE ID : 100Signals : 8209
+Session successful rate :   100%
+UE ID : 101Signals : 5085
+Session successful rate :   100%
+UE ID : 102Signals : 4665
+Session successful rate :   100%
+UE ID : 103Signals : 5113
+Session successful rate :   100%
+UE ID : 104Signals : 5113
+Session successful rate :   100%
+UE ID : 105Signals : 5113
+Session successful rate :   100%
+UE ID : 106Signals : 5113
+Session successful rate :   100%
+UE ID : 107Signals : 5113
+Session successful rate :   100%
+UE ID : 108Signals : 5113
+Session successful rate :   100%
+UE ID : 109Signals : 5113
+Session successful rate :   100%
+UE ID : 110Signals : 3521
+Session successful rate :   100%
+UE ID : 111Signals : 2541
+Session successful rate :   100%
+UE ID : 112Signals : 401
+Session successful rate :   100%
+UE ID : 113Signals : 1443
+Session successful rate :   100%
+UE ID : 114Signals : 2041
+Session successful rate :   100%
+UE ID : 115Signals : 2165
+Session successful rate :   100%
+UE ID : 116Signals : 2409
+Session successful rate :   100%
+UE ID : 117Signals : 2425
+Session successful rate :   100%
+UE ID : 118Signals : 2425
+Session successful rate :   100%
+UE ID : 119Signals : 2425
+Session successful rate :   100%
+UE ID : 120Signals : 2425
+Session successful rate :   100%
+UE ID : 121Signals : 2425
+Session successful rate :   100%
+UE ID : 122Signals : 2425
+Session successful rate :   100%
+UE ID : 123Signals : 2745
+Session successful rate :   100%
+UE ID : 124Signals : 3177
+Session successful rate :   100%
+UE ID : 125Signals : 3373
+Session successful rate :   100%
+UE ID : 126Signals : 3541
+Session successful rate :   100%
+UE ID : 127Signals : 3769
+Session successful rate :   100%
+UE ID : 128Signals : 4009
+Session successful rate :   100%
+UE ID : 129Signals : 4017
+Session successful rate :   100%
+UE ID : 130Signals : 4017
+Session successful rate :   100%
+UE ID : 131Signals : 4233
+Session successful rate :   100%
+UE ID : 132Signals : 4137
+Session successful rate :   100%
+UE ID : 133Signals : 3885
+Session successful rate :   100%
+UE ID : 134Signals : 3813
+Session successful rate :   100%
+UE ID : 135Signals : 4053
+Session successful rate :   100%
+UE ID : 136Signals : 4105
+Session successful rate :   100%
+UE ID : 137Signals : 4105
+Session successful rate :   100%
+UE ID : 138Signals : 4105
+Session successful rate :   100%
+UE ID : 139Signals : 4105
+Session successful rate :   100%
+UE ID : 140Signals : 4453
+Session successful rate :   100%
+UE ID : 141Signals : 5237
+Session successful rate :   100%
+UE ID : 142Signals : 5325
+Session successful rate :   100%
+UE ID : 143Signals : 5349
+Session successful rate :   100%
+UE ID : 144Signals : 6421
+Session successful rate :   100%
+UE ID : 145Signals : 7253
+Session successful rate :   100%
+UE ID : 146Signals : 27425
+Session successful rate :   100%
+UE ID : 147Signals : 78245
+Session successful rate :   100%
+UE ID : 148Signals : 31025
+Session successful rate :   100%
+UE ID : 149Signals : 13085
+Session successful rate :   100%
+UE ID : 150Signals : 12645
+Session successful rate :   100%
+UE ID : 151Signals : 10441
+Session successful rate :   100%
+UE ID : 152Signals : 9561
+Session successful rate :   100%
+UE ID : 153Signals : 9297
+Session successful rate :   100%
+UE ID : 154Signals : 9805
+Session successful rate :   100%
+UE ID : 155Signals : 9569
+Session successful rate :   100%
+UE ID : 156Signals : 7897
+Session successful rate :   100%
+UE ID : 157Signals : 4949
+Session successful rate :   100%
+UE ID : 158Signals : 5293
+Session successful rate :   100%
+UE ID : 159Signals : 4841
+Session successful rate :   100%
+UE ID : 160Signals : 4837
+Session successful rate :   100%
+UE ID : 161Signals : 3901
+Session successful rate :   100%
+UE ID : 162Signals : 3557
+Session successful rate :   100%
+UE ID : 163Signals : 3557
+Session successful rate :   100%
+UE ID : 164Signals : 4221
+Session successful rate :   100%
+UE ID : 165Signals : 6469
+Session successful rate :   100%
+UE ID : 166Signals : 6677
+Session successful rate :   100%
+UE ID : 167Signals : 7605
+Session successful rate :   100%
+UE ID : 168Signals : 9073
+Session successful rate :   100%
+UE ID : 169Signals : 9073
+Session successful rate :   100%
+UE ID : 170Signals : 8445
+Session successful rate :   100%
+UE ID : 171Signals : 6445
+Session successful rate :   100%
+UE ID : 172Signals : 6265
+Session successful rate :   100%
+UE ID : 173Signals : 6265
+Session successful rate :   100%
+UE ID : 174Signals : 6313
+Session successful rate :   100%
+UE ID : 175Signals : 6265
+Session successful rate :   100%
+UE ID : 176Signals : 6265
+Session successful rate :   100%
+UE ID : 177Signals : 6265
+Session successful rate :   100%
+UE ID : 178Signals : 6265
+Session successful rate :   100%
+UE ID : 179Signals : 6265
+Session successful rate :   100%
+UE ID : 180Signals : 6057
+Session successful rate :   100%
+UE ID : 181Signals : 3717
+Session successful rate :   100%
+UE ID : 182Signals : 2209
+Session successful rate :   100%
+UE ID : 183Signals : 2207
+Session successful rate :   100%
+UE ID : 184Signals : 2207
+Session successful rate :   100%
+UE ID : 185Signals : 2207
+Session successful rate :   100%
+UE ID : 186Signals : 2885
+Session successful rate :   100%
+UE ID : 187Signals : 3217
+Session successful rate :   100%
+UE ID : 188Signals : 3521
+Session successful rate :   100%
+UE ID : 189Signals : 2771
+Session successful rate :   100%
+UE ID : 190Signals : 2843
+Session successful rate :   100%
+UE ID : 191Signals : 3737
+Session successful rate :   100%
+UE ID : 192Signals : 3737
+Session successful rate :   100%
+UE ID : 193Signals : 3761
+Session successful rate :   100%
+UE ID : 194Signals : 6413
+Session successful rate :   100%
+UE ID : 195Signals : 8209
+Session successful rate :   100%
+UE ID : 196Signals : 8209
+Session successful rate :   100%
+UE ID : 197Signals : 8209
+Session successful rate :   100%
+UE ID : 198Signals : 8209
+Session successful rate :   100%
+UE ID : 199Signals : 8209
+Session successful rate :   100%
+UE ID : 200Signals : 8213
+Session successful rate :   100%
+UE ID : 201Signals : 5101
+Session successful rate :   100%
+UE ID : 202Signals : 4953
+Session successful rate :   100%
+UE ID : 203Signals : 5113
+Session successful rate :   100%
+UE ID : 204Signals : 5113
+Session successful rate :   100%
+UE ID : 205Signals : 5113
+Session successful rate :   100%
+UE ID : 206Signals : 5113
+Session successful rate :   100%
+UE ID : 207Signals : 5113
+Session successful rate :   100%
+UE ID : 208Signals : 5113
+Session successful rate :   100%
+UE ID : 209Signals : 5113
+Session successful rate :   100%
+UE ID : 210Signals : 4125
+Session successful rate :   100%
+UE ID : 211Signals : 2573
+Session successful rate :   100%
+UE ID : 212Signals : 2209
+Session successful rate :   100%
+UE ID : 213Signals : 2101
+Session successful rate :   100%
+UE ID : 214Signals : 1995
+Session successful rate :   100%
+UE ID : 215Signals : 2397
+Session successful rate :   100%
+UE ID : 216Signals : 2425
+Session successful rate :   100%
+UE ID : 217Signals : 2425
+Session successful rate :   100%
+UE ID : 218Signals : 2425
+Session successful rate :   100%
+UE ID : 219Signals : 2425
+Session successful rate :   100%
+UE ID : 220Signals : 2425
+Session successful rate :   100%
+UE ID : 221Signals : 2477
+Session successful rate :   100%
+UE ID : 222Signals : 2677
+Session successful rate :   100%
+UE ID : 223Signals : 3413
+Session successful rate :   100%
+UE ID : 224Signals : 3553
+Session successful rate :   100%
+UE ID : 225Signals : 3617
+Session successful rate :   100%
+UE ID : 226Signals : 3685
+Session successful rate :   100%
+UE ID : 227Signals : 3985
+Session successful rate :   100%
+UE ID : 228Signals : 4017
+Session successful rate :   100%
+UE ID : 229Signals : 4017
+Session successful rate :   100%
+UE ID : 230Signals : 4017
+Session successful rate :   100%
+UE ID : 231Signals : 4017
+Session successful rate :   100%
+UE ID : 232Signals : 4265
+Session successful rate :   100%
+UE ID : 233Signals : 4013
+Session successful rate :   100%
+UE ID : 234Signals : 4013
+Session successful rate :   100%
+UE ID : 235Signals : 4013
+Session successful rate :   100%
+UE ID : 236Signals : 4041
+Session successful rate :   100%
+UE ID : 237Signals : 4097
+Session successful rate :   100%
+UE ID : 238Signals : 4453
+Session successful rate :   100%
+UE ID : 239Signals : 6021
+Session successful rate :   100%
+UE ID : 240Signals : 7885
+Session successful rate :   100%
+UE ID : 241Signals : 8381
+Session successful rate :   100%
+UE ID : 242Signals : 6269
+Session successful rate :   100%
+UE ID : 243Signals : 5097
+Session successful rate :   100%
+UE ID : 244Signals : 5325
+Session successful rate :   100%
+UE ID : 245Signals : 5525
+Session successful rate :   100%
+UE ID : 246Signals : 34905
+Session successful rate :   100%
+UE ID : 247Signals : 49765
+Session successful rate :   100%
+UE ID : 248Signals : 12045
+Session successful rate :   100%
+UE ID : 249Signals : 14657
+Session successful rate :   100%
+UE ID : 250Signals : 14773
+Session successful rate :   100%
+UE ID : 251Signals : 12997
+Session successful rate :   100%
+UE ID : 252Signals : 9297
+Session successful rate :   100%
+UE ID : 253Signals : 10445
+Session successful rate :   100%
+UE ID : 254Signals : 10205
+Session successful rate :   100%
+UE ID : 255Signals : 9621
+Session successful rate :   100%
+UE ID : 256Signals : 8165
+Session successful rate :   100%
+UE ID : 257Signals : 4877
+Session successful rate :   100%
+UE ID : 258Signals : 4981
+Session successful rate :   100%
+UE ID : 259Signals : 4801
+Session successful rate :   100%
+UE ID : 260Signals : 4841
+Session successful rate :   100%
+UE ID : 261Signals : 4773
+Session successful rate :   100%
+UE ID : 262Signals : 3757
+Session successful rate :   100%
+UE ID : 263Signals : 3557
+Session successful rate :   100%
+UE ID : 264Signals : 5205
+Session successful rate :   100%
+UE ID : 265Signals : 6673
+Session successful rate :   100%
+UE ID : 266Signals : 6673
+Session successful rate :   100%
+UE ID : 267Signals : 7581
+Session successful rate :   100%
+UE ID : 268Signals : 9117
+Session successful rate :   100%
+UE ID : 269Signals : 9501
+Session successful rate :   100%
+UE ID : 270Signals : 9733
+Session successful rate :   100%
+UE ID : 271Signals : 8041
+Session successful rate :   100%
+UE ID : 272Signals : 6313
+Session successful rate :   100%
+UE ID : 273Signals : 6265
+Session successful rate :   100%
+UE ID : 274Signals : 6265
+Session successful rate :   100%
+UE ID : 275Signals : 6265
+Session successful rate :   100%
+UE ID : 276Signals : 6265
+Session successful rate :   100%
+UE ID : 277Signals : 6201
+Session successful rate :   100%
+UE ID : 278Signals : 6265
+Session successful rate :   100%
+UE ID : 279Signals : 6265
+Session successful rate :   100%
+UE ID : 280Signals : 5473
+Session successful rate :   100%
+UE ID : 281Signals : 3297
+Session successful rate :   100%
+UE ID : 282Signals : 2207
+Session successful rate :   100%
+UE ID : 283Signals : 2207
+Session successful rate :   100%
+UE ID : 284Signals : 2207
+Session successful rate :   100%
+UE ID : 285Signals : 2949
+Session successful rate :   100%
+UE ID : 286Signals : 4681
+Session successful rate :   100%
+UE ID : 287Signals : 2615
+Session successful rate :   100%
+UE ID : 288Signals : 2459
+Session successful rate :   100%
+UE ID : 289Signals : 2877
+Session successful rate :   100%
+UE ID : 290Signals : 2337
+Session successful rate :   100%
+UE ID : 291Signals : 2923
+Session successful rate :   100%
+UE ID : 292Signals : 3733
+Session successful rate :   100%
+UE ID : 293Signals : 3737
+Session successful rate :   100%
+UE ID : 294Signals : 4121
+Session successful rate :   100%
+UE ID : 295Signals : 7569
+Session successful rate :   100%
+UE ID : 296Signals : 8209
+Session successful rate :   100%
+UE ID : 297Signals : 8209
+Session successful rate :   100%
+UE ID : 298Signals : 8209
+Session successful rate :   100%
+UE ID : 299Signals : 8213
+Session successful rate :   100%
+UE ID : 300Signals : 8217
+Session successful rate :   100%
+UE ID : 301Signals : 4597
+Session successful rate :   100%
+UE ID : 302Signals : 4901
+Session successful rate :   100%
+UE ID : 303Signals : 5025
+Session successful rate :   100%
+UE ID : 304Signals : 5149
+Session successful rate :   100%
+UE ID : 305Signals : 5173
+Session successful rate :   100%
+UE ID : 306Signals : 5145
+Session successful rate :   100%
+UE ID : 307Signals : 5121
+Session successful rate :   100%
+UE ID : 308Signals : 5113
+Session successful rate :   100%
+UE ID : 309Signals : 5113
+Session successful rate :   100%
+UE ID : 310Signals : 4857
+Session successful rate :   100%
+UE ID : 311Signals : 2925
+Session successful rate :   100%
+UE ID : 312Signals : 2613
+Session successful rate :   100%
+UE ID : 313Signals : 2549
+Session successful rate :   100%
+UE ID : 314Signals : 2433
+Session successful rate :   100%
+UE ID : 315Signals : 2461
+Session successful rate :   100%
+UE ID : 316Signals : 2425
+Session successful rate :   100%
+UE ID : 317Signals : 2425
+Session successful rate :   100%
+UE ID : 318Signals : 2457
+Session successful rate :   100%
+UE ID : 319Signals : 2545
+Session successful rate :   100%
+UE ID : 320Signals : 2669
+Session successful rate :   100%
+UE ID : 321Signals : 2829
+Session successful rate :   100%
+UE ID : 322Signals : 3265
+Session successful rate :   100%
+UE ID : 323Signals : 3617
+Session successful rate :   100%
+UE ID : 324Signals : 3621
+Session successful rate :   100%
+UE ID : 325Signals : 3773
+Session successful rate :   100%
+UE ID : 326Signals : 4009
+Session successful rate :   100%
+UE ID : 327Signals : 4017
+Session successful rate :   100%
+UE ID : 328Signals : 4017
+Session successful rate :   100%
+UE ID : 329Signals : 4017
+Session successful rate :   100%
+UE ID : 330Signals : 4017
+Session successful rate :   100%
+UE ID : 331Signals : 4017
+Session successful rate :   100%
+UE ID : 332Signals : 4013
+Session successful rate :   100%
+UE ID : 333Signals : 4013
+Session successful rate :   100%
+UE ID : 334Signals : 4013
+Session successful rate :   100%
+UE ID : 335Signals : 4017
+Session successful rate :   100%
+UE ID : 336Signals : 4017
+Session successful rate :   100%
+UE ID : 337Signals : 5897
+Session successful rate :   100%
+UE ID : 338Signals : 9213
+Session successful rate :   100%
+UE ID : 339Signals : 9521
+Session successful rate :   100%
+UE ID : 340Signals : 8993
+Session successful rate :   100%
+UE ID : 341Signals : 9529
+Session successful rate :   100%
+UE ID : 342Signals : 8901
+Session successful rate :   100%
+UE ID : 343Signals : 6377
+Session successful rate :   100%
+UE ID : 344Signals : 5797
+Session successful rate :   100%
+UE ID : 345Signals : 8021
+Session successful rate :   100%
+UE ID : 346Signals : 26897
+Session successful rate :   100%
+UE ID : 347Signals : 44433
+Session successful rate :   100%
+UE ID : 348Signals : 14417
+Session successful rate :   100%
+UE ID : 349Signals : 14729
+Session successful rate :   100%
+UE ID : 350Signals : 14573
+Session successful rate :   100%
+UE ID : 351Signals : 11929
+Session successful rate :   100%
+UE ID : 352Signals : 9953
+Session successful rate :   100%
+UE ID : 353Signals : 10269
+Session successful rate :   100%
+UE ID : 354Signals : 9705
+Session successful rate :   100%
+UE ID : 355Signals : 9621
+Session successful rate :   100%
+UE ID : 356Signals : 9081
+Session successful rate :   100%
+UE ID : 357Signals : 7909
+Session successful rate :   100%
+UE ID : 358Signals : 5185
+Session successful rate :   100%
+UE ID : 359Signals : 4965
+Session successful rate :   100%
+UE ID : 360Signals : 5297
+Session successful rate :   100%
+UE ID : 361Signals : 5169
+Session successful rate :   100%
+UE ID : 362Signals : 4861
+Session successful rate :   100%
+UE ID : 363Signals : 3685
+Session successful rate :   100%
+UE ID : 364Signals : 5805
+Session successful rate :   100%
+UE ID : 365Signals : 6673
+Session successful rate :   100%
+UE ID : 366Signals : 6837
+Session successful rate :   100%
+UE ID : 367Signals : 8005
+Session successful rate :   100%
+UE ID : 368Signals : 9757
+Session successful rate :   100%
+UE ID : 369Signals : 10013
+Session successful rate :   100%
+UE ID : 370Signals : 10013
+Session successful rate :   100%
+UE ID : 371Signals : 8373
+Session successful rate :   100%
+UE ID : 372Signals : 6705
+Session successful rate :   100%
+UE ID : 373Signals : 6265
+Session successful rate :   100%
+UE ID : 374Signals : 6265
+Session successful rate :   100%
+UE ID : 375Signals : 6265
+Session successful rate :   100%
+UE ID : 376Signals : 6265
+Session successful rate :   100%
+UE ID : 377Signals : 4033
+Session successful rate :   100%
+UE ID : 378Signals : 6265
+Session successful rate :   100%
+UE ID : 379Signals : 6237
+Session successful rate :   100%
+UE ID : 380Signals : 5185
+Session successful rate :   100%
+UE ID : 381Signals : 2521
+Session successful rate :   100%
+UE ID : 382Signals : 2207
+Session successful rate :   100%
+UE ID : 383Signals : 2375
+Session successful rate :   100%
+UE ID : 384Signals : 3641
+Session successful rate :   100%
+UE ID : 385Signals : 5249
+Session successful rate :   100%
+UE ID : 386Signals : 2981
+Session successful rate :   100%
+UE ID : 387Signals : 2409
+Session successful rate :   100%
+UE ID : 388Signals : 2581
+Session successful rate :   100%
+UE ID : 389Signals : 3473
+Session successful rate :   100%
+UE ID : 390Signals : 2387
+Session successful rate :   100%
+UE ID : 391Signals : 2365
+Session successful rate :   100%
+UE ID : 392Signals : 2959
+Session successful rate :   100%
+UE ID : 393Signals : 3705
+Session successful rate :   100%
+UE ID : 394Signals : 3709
+Session successful rate :   100%
+UE ID : 395Signals : 4053
+Session successful rate :   100%
+UE ID : 396Signals : 8081
+Session successful rate :   100%
+UE ID : 397Signals : 8097
+Session successful rate :   100%
+UE ID : 398Signals : 7877
+Session successful rate :   100%
+UE ID : 399Signals : 6993
+Session successful rate :   100%
+UE ID : 400Signals : 5997
+Session successful rate :   100%
+UE ID : 401Signals : 2653
+Session successful rate :   100%
+UE ID : 402Signals : 3313
+Session successful rate :   100%
+UE ID : 403Signals : 3937
+Session successful rate :   100%
+UE ID : 404Signals : 3969
+Session successful rate :   100%
+UE ID : 405Signals : 3765
+Session successful rate :   100%
+UE ID : 406Signals : 4513
+Session successful rate :   100%
+UE ID : 407Signals : 4361
+Session successful rate :   100%
+UE ID : 408Signals : 4157
+Session successful rate :   100%
+UE ID : 409Signals : 3525
+Session successful rate :   100%
+UE ID : 410Signals : 2829
+Session successful rate :   100%
+UE ID : 411Signals : 2633
+Session successful rate :   100%
+UE ID : 412Signals : 2537
+Session successful rate :   100%
+UE ID : 413Signals : 2537
+Session successful rate :   100%
+UE ID : 414Signals : 2537
+Session successful rate :   100%
+UE ID : 415Signals : 2477
+Session successful rate :   100%
+UE ID : 416Signals : 2445
+Session successful rate :   100%
+UE ID : 417Signals : 2585
+Session successful rate :   100%
+UE ID : 418Signals : 2797
+Session successful rate :   100%
+UE ID : 419Signals : 2857
+Session successful rate :   100%
+UE ID : 420Signals : 2857
+Session successful rate :   100%
+UE ID : 421Signals : 3105
+Session successful rate :   100%
+UE ID : 422Signals : 3613
+Session successful rate :   100%
+UE ID : 423Signals : 3641
+Session successful rate :   100%
+UE ID : 424Signals : 3901
+Session successful rate :   100%
+UE ID : 425Signals : 4017
+Session successful rate :   100%
+UE ID : 426Signals : 4017
+Session successful rate :   100%
+UE ID : 427Signals : 4017
+Session successful rate :   100%
+UE ID : 428Signals : 4017
+Session successful rate :   100%
+UE ID : 429Signals : 4017
+Session successful rate :   100%
+UE ID : 430Signals : 4017
+Session successful rate :   100%
+UE ID : 431Signals : 4017
+Session successful rate :   100%
+UE ID : 432Signals : 3809
+Session successful rate :   100%
+UE ID : 433Signals : 4049
+Session successful rate :   100%
+UE ID : 434Signals : 4013
+Session successful rate :   100%
+UE ID : 435Signals : 4017
+Session successful rate :   100%
+UE ID : 436Signals : 4261
+Session successful rate :   100%
+UE ID : 437Signals : 8673
+Session successful rate :   100%
+UE ID : 438Signals : 9517
+Session successful rate :   100%
+UE ID : 439Signals : 9521
+Session successful rate :   100%
+UE ID : 440Signals : 9517
+Session successful rate :   100%
+UE ID : 441Signals : 9537
+Session successful rate :   100%
+UE ID : 442Signals : 9669
+Session successful rate :   100%
+UE ID : 443Signals : 7889
+Session successful rate :   100%
+UE ID : 444Signals : 6681
+Session successful rate :   100%
+UE ID : 445Signals : 8341
+Session successful rate :   100%
+UE ID : 446Signals : 11473
+Session successful rate :   100%
+UE ID : 447Signals : 15537
+Session successful rate :   100%
+UE ID : 448Signals : 21545
+Session successful rate :   100%
+UE ID : 449Signals : 14237
+Session successful rate :   100%
+UE ID : 450Signals : 11793
+Session successful rate :   100%
+UE ID : 451Signals : 9825
+Session successful rate :   100%
+UE ID : 452Signals : 10501
+Session successful rate :   100%
+UE ID : 453Signals : 9897
+Session successful rate :   100%
+UE ID : 454Signals : 9621
+Session successful rate :   100%
+UE ID : 455Signals : 9621
+Session successful rate :   100%
+UE ID : 456Signals : 8945
+Session successful rate :   100%
+UE ID : 457Signals : 8885
+Session successful rate :   100%
+UE ID : 458Signals : 8193
+Session successful rate :   100%
+UE ID : 459Signals : 5589
+Session successful rate :   100%
+UE ID : 460Signals : 5521
+Session successful rate :   100%
+UE ID : 461Signals : 5573
+Session successful rate :   100%
+UE ID : 462Signals : 5145
+Session successful rate :   100%
+UE ID : 463Signals : 4921
+Session successful rate :   100%
+UE ID : 464Signals : 6685
+Session successful rate :   100%
+UE ID : 465Signals : 6937
+Session successful rate :   100%
+UE ID : 466Signals : 8369
+Session successful rate :   100%
+UE ID : 467Signals : 8421
+Session successful rate :   100%
+UE ID : 468Signals : 6761
+Session successful rate :   100%
+UE ID : 469Signals : 7809
+Session successful rate :   100%
+UE ID : 470Signals : 8237
+Session successful rate :   100%
+UE ID : 471Signals : 6709
+Session successful rate :   100%
+UE ID : 472Signals : 5457
+Session successful rate :   100%
+UE ID : 473Signals : 5661
+Session successful rate :   100%
+UE ID : 474Signals : 6005
+Session successful rate :   100%
+UE ID : 475Signals : 5897
+Session successful rate :   100%
+UE ID : 476Signals : 5657
+Session successful rate :   100%
+UE ID : 477Signals : 5317
+Session successful rate :   100%
+UE ID : 478Signals : 5421
+Session successful rate :   100%
+UE ID : 479Signals : 5689
+Session successful rate :   100%
+UE ID : 480Signals : 4501
+Session successful rate :   100%
+UE ID : 481Signals : 2207
+Session successful rate :   100%
+UE ID : 482Signals : 2207
+Session successful rate :   100%
+UE ID : 483Signals : 3857
+Session successful rate :   100%
+UE ID : 484Signals : 5321
+Session successful rate :   100%
+UE ID : 485Signals : 4445
+Session successful rate :   100%
+UE ID : 486Signals : 2431
+Session successful rate :   100%
+UE ID : 487Signals : 2431
+Session successful rate :   100%
+UE ID : 488Signals : 2431
+Session successful rate :   100%
+UE ID : 489Signals : 2431
+Session successful rate :   100%
+UE ID : 490Signals : 2431
+Session successful rate :   100%
+UE ID : 491Signals : 2425
+Session successful rate :   100%
+UE ID : 492Signals : 2299
+Session successful rate :   100%
+UE ID : 493Signals : 2711
+Session successful rate :   100%
+UE ID : 494Signals : 3457
+Session successful rate :   100%
+UE ID : 495Signals : 3517
+Session successful rate :   100%
+UE ID : 496Signals : 5061
+Session successful rate :   100%
+UE ID : 497Signals : 5089
+Session successful rate :   100%
+UE ID : 498Signals : 4541
+Session successful rate :   100%
+UE ID : 499Signals : 4341
+Session successful rate :   100%
+UE ID : 500Signals : 4345
+Session successful rate :   100%
+UE ID : 501Signals : 2621
+Session successful rate :   100%
+UE ID : 502Signals : 2621
+Session successful rate :   100%
+UE ID : 503Signals : 2621
+Session successful rate :   100%
+UE ID : 504Signals : 2621
+Session successful rate :   100%
+UE ID : 505Signals : 2621
+Session successful rate :   100%
+UE ID : 506Signals : 2621
+Session successful rate :   100%
+UE ID : 507Signals : 2609
+Session successful rate :   100%
+UE ID : 508Signals : 2553
+Session successful rate :   100%
+UE ID : 509Signals : 2549
+Session successful rate :   100%
+UE ID : 510Signals : 2549
+Session successful rate :   100%
+UE ID : 511Signals : 2545
+Session successful rate :   100%
+UE ID : 512Signals : 2609
+Session successful rate :   100%
+UE ID : 513Signals : 2557
+Session successful rate :   100%
+UE ID : 514Signals : 2537
+Session successful rate :   100%
+UE ID : 515Signals : 2529
+Session successful rate :   100%
+UE ID : 516Signals : 2465
+Session successful rate :   100%
+UE ID : 517Signals : 2837
+Session successful rate :   100%
+UE ID : 518Signals : 2857
+Session successful rate :   100%
+UE ID : 519Signals : 2857
+Session successful rate :   100%
+UE ID : 520Signals : 2885
+Session successful rate :   100%
+UE ID : 521Signals : 3389
+Session successful rate :   100%
+UE ID : 522Signals : 3717
+Session successful rate :   100%
+UE ID : 523Signals : 3961
+Session successful rate :   100%
+UE ID : 524Signals : 4013
+Session successful rate :   100%
+UE ID : 525Signals : 4017
+Session successful rate :   100%
+UE ID : 526Signals : 4017
+Session successful rate :   100%
+UE ID : 527Signals : 4017
+Session successful rate :   100%
+UE ID : 528Signals : 4017
+Session successful rate :   100%
+UE ID : 529Signals : 4017
+Session successful rate :   100%
+UE ID : 530Signals : 4017
+Session successful rate :   100%
+UE ID : 531Signals : 4017
+Session successful rate :   100%
+UE ID : 532Signals : 4013
+Session successful rate :   100%
+UE ID : 533Signals : 4185
+Session successful rate :   100%
+UE ID : 534Signals : 4305
+Session successful rate :   100%
+UE ID : 535Signals : 3653
+Session successful rate :   100%
+UE ID : 536Signals : 6157
+Session successful rate :   100%
+UE ID : 537Signals : 9421
+Session successful rate :   100%
+UE ID : 538Signals : 9517
+Session successful rate :   100%
+UE ID : 539Signals : 9517
+Session successful rate :   100%
+UE ID : 540Signals : 9517
+Session successful rate :   100%
+UE ID : 541Signals : 9525
+Session successful rate :   100%
+UE ID : 542Signals : 9497
+Session successful rate :   100%
+UE ID : 543Signals : 8805
+Session successful rate :   100%
+UE ID : 544Signals : 9753
+Session successful rate :   100%
+UE ID : 545Signals : 8533
+Session successful rate :   100%
+UE ID : 546Signals : 11737
+Session successful rate :   100%
+UE ID : 547Signals : 14553
+Session successful rate :   100%
+UE ID : 548Signals : 14553
+Session successful rate :   100%
+UE ID : 549Signals : 10393
+Session successful rate :   100%
+UE ID : 550Signals : 10129
+Session successful rate :   100%
+UE ID : 551Signals : 10473
+Session successful rate :   100%
+UE ID : 552Signals : 9841
+Session successful rate :   100%
+UE ID : 553Signals : 9621
+Session successful rate :   100%
+UE ID : 554Signals : 9621
+Session successful rate :   100%
+UE ID : 555Signals : 9361
+Session successful rate :   100%
+UE ID : 556Signals : 8957
+Session successful rate :   100%
+UE ID : 557Signals : 8953
+Session successful rate :   100%
+UE ID : 558Signals : 9725
+Session successful rate :   100%
+UE ID : 559Signals : 11325
+Session successful rate :   100%
+UE ID : 560Signals : 8661
+Session successful rate :   100%
+UE ID : 561Signals : 6369
+Session successful rate :   100%
+UE ID : 562Signals : 4917
+Session successful rate :   100%
+UE ID : 563Signals : 5173
+Session successful rate :   100%
+UE ID : 564Signals : 7077
+Session successful rate :   100%
+UE ID : 565Signals : 7941
+Session successful rate :   100%
+UE ID : 566Signals : 8725
+Session successful rate :   100%
+UE ID : 567Signals : 7081
+Session successful rate :   100%
+UE ID : 568Signals : 6309
+Session successful rate :   100%
+UE ID : 569Signals : 6245
+Session successful rate :   100%
+UE ID : 570Signals : 6277
+Session successful rate :   100%
+UE ID : 571Signals : 5425
+Session successful rate :   100%
+UE ID : 572Signals : 5013
+Session successful rate :   100%
+UE ID : 573Signals : 4769
+Session successful rate :   100%
+UE ID : 574Signals : 4701
+Session successful rate :   100%
+UE ID : 575Signals : 4837
+Session successful rate :   100%
+UE ID : 576Signals : 5129
+Session successful rate :   100%
+UE ID : 577Signals : 5149
+Session successful rate :   100%
+UE ID : 578Signals : 5169
+Session successful rate :   100%
+UE ID : 579Signals : 5133
+Session successful rate :   100%
+UE ID : 580Signals : 9653
+Session successful rate :   100%
+UE ID : 581Signals : 2259
+Session successful rate :   100%
+UE ID : 582Signals : 3661
+Session successful rate :   100%
+UE ID : 583Signals : 5229
+Session successful rate :   100%
+UE ID : 584Signals : 5425
+Session successful rate :   100%
+UE ID : 585Signals : 2929
+Session successful rate :   100%
+UE ID : 586Signals : 2431
+Session successful rate :   100%
+UE ID : 587Signals : 2431
+Session successful rate :   100%
+UE ID : 588Signals : 2431
+Session successful rate :   100%
+UE ID : 589Signals : 2431
+Session successful rate :   100%
+UE ID : 590Signals : 2431
+Session successful rate :   100%
+UE ID : 591Signals : 2375
+Session successful rate :   100%
+UE ID : 592Signals : 2111
+Session successful rate :   100%
+UE ID : 593Signals : 2021
+Session successful rate :   100%
+UE ID : 594Signals : 2505
+Session successful rate :   100%
+UE ID : 595Signals : 3285
+Session successful rate :   100%
+UE ID : 596Signals : 3457
+Session successful rate :   100%
+UE ID : 597Signals : 3933
+Session successful rate :   100%
+UE ID : 598Signals : 4341
+Session successful rate :   100%
+UE ID : 599Signals : 4341
+Session successful rate :   100%
+UE ID : 600Signals : 4341
+Session successful rate :   100%
+UE ID : 601Signals : 2621
+Session successful rate :   100%
+UE ID : 602Signals : 2621
+Session successful rate :   100%
+UE ID : 603Signals : 2621
+Session successful rate :   100%
+UE ID : 604Signals : 2621
+Session successful rate :   100%
+UE ID : 605Signals : 2621
+Session successful rate :   100%
+UE ID : 606Signals : 2621
+Session successful rate :   100%
+UE ID : 607Signals : 2629
+Session successful rate :   100%
+UE ID : 608Signals : 2561
+Session successful rate :   100%
+UE ID : 609Signals : 2549
+Session successful rate :   100%
+UE ID : 610Signals : 2549
+Session successful rate :   100%
+UE ID : 611Signals : 2549
+Session successful rate :   100%
+UE ID : 612Signals : 3353
+Session successful rate :   100%
+UE ID : 613Signals : 2573
+Session successful rate :   100%
+UE ID : 614Signals : 2533
+Session successful rate :   100%
+UE ID : 615Signals : 2533
+Session successful rate :   100%
+UE ID : 616Signals : 2497
+Session successful rate :   100%
+UE ID : 617Signals : 2793
+Session successful rate :   100%
+UE ID : 618Signals : 2857
+Session successful rate :   100%
+UE ID : 619Signals : 2857
+Session successful rate :   100%
+UE ID : 620Signals : 3405
+Session successful rate :   100%
+UE ID : 621Signals : 3813
+Session successful rate :   100%
+UE ID : 622Signals : 4013
+Session successful rate :   100%
+UE ID : 623Signals : 4013
+Session successful rate :   100%
+UE ID : 624Signals : 4013
+Session successful rate :   100%
+UE ID : 625Signals : 4013
+Session successful rate :   100%
+UE ID : 626Signals : 4013
+Session successful rate :   100%
+UE ID : 627Signals : 4013
+Session successful rate :   100%
+UE ID : 628Signals : 4017
+Session successful rate :   100%
+UE ID : 629Signals : 4017
+Session successful rate :   100%
+UE ID : 630Signals : 4017
+Session successful rate :   100%
+UE ID : 631Signals : 4017
+Session successful rate :   100%
+UE ID : 632Signals : 4013
+Session successful rate :   100%
+UE ID : 633Signals : 4013
+Session successful rate :   100%
+UE ID : 634Signals : 4329
+Session successful rate :   100%
+UE ID : 635Signals : 4357
+Session successful rate :   100%
+UE ID : 636Signals : 8053
+Session successful rate :   100%
+UE ID : 637Signals : 8965
+Session successful rate :   100%
+UE ID : 638Signals : 9521
+Session successful rate :   100%
+UE ID : 639Signals : 9517
+Session successful rate :   100%
+UE ID : 640Signals : 9517
+Session successful rate :   100%
+UE ID : 641Signals : 9625
+Session successful rate :   100%
+UE ID : 642Signals : 9153
+Session successful rate :   100%
+UE ID : 643Signals : 7837
+Session successful rate :   100%
+UE ID : 644Signals : 10657
+Session successful rate :   100%
+UE ID : 645Signals : 10837
+Session successful rate :   100%
+UE ID : 646Signals : 13685
+Session successful rate :   100%
+UE ID : 647Signals : 15733
+Session successful rate :   100%
+UE ID : 648Signals : 14625
+Session successful rate :   100%
+UE ID : 649Signals : 12905
+Session successful rate :   100%
+UE ID : 650Signals : 19205
+Session successful rate :   100%
+UE ID : 651Signals : 13137
+Session successful rate :   100%
+UE ID : 652Signals : 9633
+Session successful rate :   100%
+UE ID : 653Signals : 9629
+Session successful rate :   100%
+UE ID : 654Signals : 9629
+Session successful rate :   100%
+UE ID : 655Signals : 9973
+Session successful rate :   100%
+UE ID : 656Signals : 9285
+Session successful rate :   100%
+UE ID : 657Signals : 9277
+Session successful rate :   100%
+UE ID : 658Signals : 9749
+Session successful rate :   100%
+UE ID : 659Signals : 11885
+Session successful rate :   100%
+UE ID : 660Signals : 11933
+Session successful rate :   100%
+UE ID : 661Signals : 9701
+Session successful rate :   100%
+UE ID : 662Signals : 5009
+Session successful rate :   100%
+UE ID : 663Signals : 5125
+Session successful rate :   100%
+UE ID : 664Signals : 8585
+Session successful rate :   100%
+UE ID : 665Signals : 9069
+Session successful rate :   100%
+UE ID : 666Signals : 9965
+Session successful rate :   100%
+UE ID : 667Signals : 6513
+Session successful rate :   100%
+UE ID : 668Signals : 6345
+Session successful rate :   100%
+UE ID : 669Signals : 5573
+Session successful rate :   100%
+UE ID : 670Signals : 5293
+Session successful rate :   100%
+UE ID : 671Signals : 5005
+Session successful rate :   100%
+UE ID : 672Signals : 4701
+Session successful rate :   100%
+UE ID : 673Signals : 4701
+Session successful rate :   100%
+UE ID : 674Signals : 4701
+Session successful rate :   100%
+UE ID : 675Signals : 4701
+Session successful rate :   100%
+UE ID : 676Signals : 4841
+Session successful rate :   100%
+UE ID : 677Signals : 5149
+Session successful rate :   100%
+UE ID : 678Signals : 5057
+Session successful rate :   100%
+UE ID : 679Signals : 4281
+Session successful rate :   100%
+UE ID : 680Signals : 4033
+Session successful rate :   100%
+UE ID : 681Signals : 5485
+Session successful rate :   100%
+UE ID : 682Signals : 5217
+Session successful rate :   100%
+UE ID : 683Signals : 5449
+Session successful rate :   100%
+UE ID : 684Signals : 5069
+Session successful rate :   100%
+UE ID : 685Signals : 2449
+Session successful rate :   100%
+UE ID : 686Signals : 2431
+Session successful rate :   100%
+UE ID : 687Signals : 2431
+Session successful rate :   100%
+UE ID : 688Signals : 2431
+Session successful rate :   100%
+UE ID : 689Signals : 2431
+Session successful rate :   100%
+UE ID : 690Signals : 2431
+Session successful rate :   100%
+UE ID : 691Signals : 2249
+Session successful rate :   100%
+UE ID : 692Signals : 2013
+Session successful rate :   100%
+UE ID : 693Signals : 2013
+Session successful rate :   100%
+UE ID : 694Signals : 2901
+Session successful rate :   100%
+UE ID : 695Signals : 3681
+Session successful rate :   100%
+UE ID : 696Signals : 2425
+Session successful rate :   100%
+UE ID : 697Signals : 3721
+Session successful rate :   100%
+UE ID : 698Signals : 4341
+Session successful rate :   100%
+UE ID : 699Signals : 4341
+Session successful rate :   100%
+UE ID : 700Signals : 4337
+Session successful rate :   100%
+UE ID : 701Signals : 2621
+Session successful rate :   100%
+UE ID : 702Signals : 2637
+Session successful rate :   100%
+UE ID : 703Signals : 2621
+Session successful rate :   100%
+UE ID : 704Signals : 2621
+Session successful rate :   100%
+UE ID : 705Signals : 2621
+Session successful rate :   100%
+UE ID : 706Signals : 2621
+Session successful rate :   100%
+UE ID : 707Signals : 2625
+Session successful rate :   100%
+UE ID : 708Signals : 2581
+Session successful rate :   100%
+UE ID : 709Signals : 2549
+Session successful rate :   100%
+UE ID : 710Signals : 2545
+Session successful rate :   100%
+UE ID : 711Signals : 2541
+Session successful rate :   100%
+UE ID : 712Signals : 6581
+Session successful rate :   100%
+UE ID : 713Signals : 3901
+Session successful rate :   100%
+UE ID : 714Signals : 2541
+Session successful rate :   100%
+UE ID : 715Signals : 2557
+Session successful rate :   100%
+UE ID : 716Signals : 2533
+Session successful rate :   100%
+UE ID : 717Signals : 2677
+Session successful rate :   100%
+UE ID : 718Signals : 2857
+Session successful rate :   100%
+UE ID : 719Signals : 3085
+Session successful rate :   100%
+UE ID : 720Signals : 3897
+Session successful rate :   100%
+UE ID : 721Signals : 4013
+Session successful rate :   100%
+UE ID : 722Signals : 4013
+Session successful rate :   100%
+UE ID : 723Signals : 4013
+Session successful rate :   100%
+UE ID : 724Signals : 4013
+Session successful rate :   100%
+UE ID : 725Signals : 4013
+Session successful rate :   100%
+UE ID : 726Signals : 4013
+Session successful rate :   100%
+UE ID : 727Signals : 4013
+Session successful rate :   100%
+UE ID : 728Signals : 4013
+Session successful rate :   100%
+UE ID : 729Signals : 4017
+Session successful rate :   100%
+UE ID : 730Signals : 4013
+Session successful rate :   100%
+UE ID : 731Signals : 4013
+Session successful rate :   100%
+UE ID : 732Signals : 4013
+Session successful rate :   100%
+UE ID : 733Signals : 4013
+Session successful rate :   100%
+UE ID : 734Signals : 4029
+Session successful rate :   100%
+UE ID : 735Signals : 6825
+Session successful rate :   100%
+UE ID : 736Signals : 9489
+Session successful rate :   100%
+UE ID : 737Signals : 9517
+Session successful rate :   100%
+UE ID : 738Signals : 9517
+Session successful rate :   100%
+UE ID : 739Signals : 9517
+Session successful rate :   100%
+UE ID : 740Signals : 9517
+Session successful rate :   100%
+UE ID : 741Signals : 9529
+Session successful rate :   100%
+UE ID : 742Signals : 10485
+Session successful rate :   100%
+UE ID : 743Signals : 10933
+Session successful rate :   100%
+UE ID : 744Signals : 12725
+Session successful rate :   100%
+UE ID : 745Signals : 13009
+Session successful rate :   100%
+UE ID : 746Signals : 13101
+Session successful rate :   100%
+UE ID : 747Signals : 14521
+Session successful rate :   100%
+UE ID : 748Signals : 14633
+Session successful rate :   100%
+UE ID : 749Signals : 15869
+Session successful rate :   100%
+UE ID : 750Signals : 30385
+Session successful rate :   100%
+UE ID : 751Signals : 33273
+Session successful rate :   100%
+UE ID : 752Signals : 28329
+Session successful rate :   100%
+UE ID : 753Signals : 18525
+Session successful rate :   100%
+UE ID : 754Signals : 18893
+Session successful rate :   100%
+UE ID : 755Signals : 22381
+Session successful rate :   100%
+UE ID : 756Signals : 14449
+Session successful rate :   100%
+UE ID : 757Signals : 12389
+Session successful rate :   100%
+UE ID : 758Signals : 14129
+Session successful rate :   100%
+UE ID : 759Signals : 10009
+Session successful rate :   100%
+UE ID : 760Signals : 11397
+Session successful rate :   100%
+UE ID : 761Signals : 12493
+Session successful rate :   100%
+UE ID : 762Signals : 6113
+Session successful rate :   100%
+UE ID : 763Signals : 5865
+Session successful rate :   100%
+UE ID : 764Signals : 9245
+Session successful rate :   100%
+UE ID : 765Signals : 16001
+Session successful rate :   100%
+UE ID : 766Signals : 25649
+Session successful rate :   100%
+UE ID : 767Signals : 22765
+Session successful rate :   100%
+UE ID : 768Signals : 12613
+Session successful rate :   100%
+UE ID : 769Signals : 12161
+Session successful rate :   100%
+UE ID : 770Signals : 16561
+Session successful rate :   100%
+UE ID : 771Signals : 9405
+Session successful rate :   100%
+UE ID : 772Signals : 4701
+Session successful rate :   100%
+UE ID : 773Signals : 4701
+Session successful rate :   100%
+UE ID : 774Signals : 4701
+Session successful rate :   100%
+UE ID : 775Signals : 4701
+Session successful rate :   100%
+UE ID : 776Signals : 5105
+Session successful rate :   100%
+UE ID : 777Signals : 4593
+Session successful rate :   100%
+UE ID : 778Signals : 4089
+Session successful rate :   100%
+UE ID : 779Signals : 4045
+Session successful rate :   100%
+UE ID : 780Signals : 4585
+Session successful rate :   100%
+UE ID : 781Signals : 6961
+Session successful rate :   100%
+UE ID : 782Signals : 6909
+Session successful rate :   100%
+UE ID : 783Signals : 5873
+Session successful rate :   100%
+UE ID : 784Signals : 4473
+Session successful rate :   100%
+UE ID : 785Signals : 2431
+Session successful rate :   100%
+UE ID : 786Signals : 2431
+Session successful rate :   100%
+UE ID : 787Signals : 2409
+Session successful rate :   100%
+UE ID : 788Signals : 2409
+Session successful rate :   100%
+UE ID : 789Signals : 2431
+Session successful rate :   100%
+UE ID : 790Signals : 2415
+Session successful rate :   100%
+UE ID : 791Signals : 2171
+Session successful rate :   100%
+UE ID : 792Signals : 2013
+Session successful rate :   100%
+UE ID : 793Signals : 1987
+Session successful rate :   100%
+UE ID : 794Signals : 4265
+Session successful rate :   100%
+UE ID : 795Signals : 4873
+Session successful rate :   100%
+UE ID : 796Signals : 2655
+Session successful rate :   100%
+UE ID : 797Signals : 3787
+Session successful rate :   100%
+UE ID : 798Signals : 4745
+Session successful rate :   100%
+UE ID : 799Signals : 4341
+Session successful rate :   100%
+UE ID : 800Signals : 4337
+Session successful rate :   100%
+UE ID : 801Signals : 2641
+Session successful rate :   100%
+UE ID : 802Signals : 2609
+Session successful rate :   100%
+UE ID : 803Signals : 2625
+Session successful rate :   100%
+UE ID : 804Signals : 2625
+Session successful rate :   100%
+UE ID : 805Signals : 2621
+Session successful rate :   100%
+UE ID : 806Signals : 2629
+Session successful rate :   100%
+UE ID : 807Signals : 2641
+Session successful rate :   100%
+UE ID : 808Signals : 2661
+Session successful rate :   100%
+UE ID : 809Signals : 2541
+Session successful rate :   100%
+UE ID : 810Signals : 2541
+Session successful rate :   100%
+UE ID : 811Signals : 2541
+Session successful rate :   100%
+UE ID : 812Signals : 2541
+Session successful rate :   100%
+UE ID : 813Signals : 2553
+Session successful rate :   100%
+UE ID : 814Signals : 4229
+Session successful rate :   100%
+UE ID : 815Signals : 1985
+Session successful rate :   100%
+UE ID : 816Signals : 2533
+Session successful rate :   100%
+UE ID : 817Signals : 2637
+Session successful rate :   100%
+UE ID : 818Signals : 2937
+Session successful rate :   100%
+UE ID : 819Signals : 3629
+Session successful rate :   100%
+UE ID : 820Signals : 4013
+Session successful rate :   100%
+UE ID : 821Signals : 4013
+Session successful rate :   100%
+UE ID : 822Signals : 4013
+Session successful rate :   100%
+UE ID : 823Signals : 4013
+Session successful rate :   100%
+UE ID : 824Signals : 4013
+Session successful rate :   100%
+UE ID : 825Signals : 4017
+Session successful rate :   100%
+UE ID : 826Signals : 4017
+Session successful rate :   100%
+UE ID : 827Signals : 4013
+Session successful rate :   100%
+UE ID : 828Signals : 4013
+Session successful rate :   100%
+UE ID : 829Signals : 4013
+Session successful rate :   100%
+UE ID : 830Signals : 4025
+Session successful rate :   100%
+UE ID : 831Signals : 4341
+Session successful rate :   100%
+UE ID : 832Signals : 4013
+Session successful rate :   100%
+UE ID : 833Signals : 4013
+Session successful rate :   100%
+UE ID : 834Signals : 4789
+Session successful rate :   100%
+UE ID : 835Signals : 8753
+Session successful rate :   100%
+UE ID : 836Signals : 9505
+Session successful rate :   100%
+UE ID : 837Signals : 9517
+Session successful rate :   100%
+UE ID : 838Signals : 9517
+Session successful rate :   100%
+UE ID : 839Signals : 9517
+Session successful rate :   100%
+UE ID : 840Signals : 9517
+Session successful rate :   100%
+UE ID : 841Signals : 9805
+Session successful rate :   100%
+UE ID : 842Signals : 10553
+Session successful rate :   100%
+UE ID : 843Signals : 10233
+Session successful rate :   100%
+UE ID : 844Signals : 11017
+Session successful rate :   100%
+UE ID : 845Signals : 14153
+Session successful rate :   100%
+UE ID : 846Signals : 14513
+Session successful rate :   100%
+UE ID : 847Signals : 18325
+Session successful rate :   100%
+UE ID : 848Signals : 16937
+Session successful rate :   100%
+UE ID : 849Signals : 25381
+Session successful rate :   100%
+UE ID : 850Signals : 35577
+Session successful rate :   100%
+UE ID : 851Signals : 46925
+Session successful rate :   100%
+UE ID : 852Signals : 40585
+Session successful rate :   100%
+UE ID : 853Signals : 32481
+Session successful rate :   100%
+UE ID : 854Signals : 24249
+Session successful rate :   100%
+UE ID : 855Signals : 23085
+Session successful rate :   100%
+UE ID : 856Signals : 22065
+Session successful rate :   100%
+UE ID : 857Signals : 17521
+Session successful rate :   100%
+UE ID : 858Signals : 14677
+Session successful rate :   100%
+UE ID : 859Signals : 5689
+Session successful rate :   100%
+UE ID : 860Signals : 5881
+Session successful rate :   100%
+UE ID : 861Signals : 7285
+Session successful rate :   100%
+UE ID : 862Signals : 6821
+Session successful rate :   100%
+UE ID : 863Signals : 6629
+Session successful rate :   100%
+UE ID : 864Signals : 14689
+Session successful rate :   100%
+UE ID : 865Signals : 26985
+Session successful rate :   100%
+UE ID : 866Signals : 27017
+Session successful rate :   100%
+UE ID : 867Signals : 23737
+Session successful rate :   100%
+UE ID : 868Signals : 20701
+Session successful rate :   100%
+UE ID : 869Signals : 18079
+Session successful rate :   100%
+UE ID : 870Signals : 18079
+Session successful rate :   100%
+UE ID : 871Signals : 8029
+Session successful rate :   100%
+UE ID : 872Signals : 4701
+Session successful rate :   100%
+UE ID : 873Signals : 4701
+Session successful rate :   100%
+UE ID : 874Signals : 4701
+Session successful rate :   100%
+UE ID : 875Signals : 4701
+Session successful rate :   100%
+UE ID : 876Signals : 10317
+Session successful rate :   100%
+UE ID : 877Signals : 4043
+Session successful rate :   100%
+UE ID : 878Signals : 4045
+Session successful rate :   100%
+UE ID : 879Signals : 4277
+Session successful rate :   100%
+UE ID : 880Signals : 4593
+Session successful rate :   100%
+UE ID : 881Signals : 5397
+Session successful rate :   100%
+UE ID : 882Signals : 6677
+Session successful rate :   100%
+UE ID : 883Signals : 6749
+Session successful rate :   100%
+UE ID : 884Signals : 3777
+Session successful rate :   100%
+UE ID : 885Signals : 2431
+Session successful rate :   100%
+UE ID : 886Signals : 2431
+Session successful rate :   100%
+UE ID : 887Signals : 2383
+Session successful rate :   100%
+UE ID : 888Signals : 2393
+Session successful rate :   100%
+UE ID : 889Signals : 2431
+Session successful rate :   100%
+UE ID : 890Signals : 2375
+Session successful rate :   100%
+UE ID : 891Signals : 2059
+Session successful rate :   100%
+UE ID : 892Signals : 2013
+Session successful rate :   100%
+UE ID : 893Signals : 2985
+Session successful rate :   100%
+UE ID : 894Signals : 4185
+Session successful rate :   100%
+UE ID : 895Signals : 4869
+Session successful rate :   100%
+UE ID : 896Signals : 5437
+Session successful rate :   100%
+UE ID : 897Signals : 8701
+Session successful rate :   100%
+UE ID : 898Signals : 9217
+Session successful rate :   100%
+UE ID : 899Signals : 7045
+Session successful rate :   100%
+UE ID : 900Signals : 5145
+Session successful rate :   100%
+UE ID : 901Signals : 2621
+Session successful rate :   100%
+UE ID : 902Signals : 2621
+Session successful rate :   100%
+UE ID : 903Signals : 2625
+Session successful rate :   100%
+UE ID : 904Signals : 2637
+Session successful rate :   100%
+UE ID : 905Signals : 2637
+Session successful rate :   100%
+UE ID : 906Signals : 2669
+Session successful rate :   100%
+UE ID : 907Signals : 2733
+Session successful rate :   100%
+UE ID : 908Signals : 2709
+Session successful rate :   100%
+UE ID : 909Signals : 2541
+Session successful rate :   100%
+UE ID : 910Signals : 2541
+Session successful rate :   100%
+UE ID : 911Signals : 2541
+Session successful rate :   100%
+UE ID : 912Signals : 2613
+Session successful rate :   100%
+UE ID : 913Signals : 2613
+Session successful rate :   100%
+UE ID : 914Signals : 2745
+Session successful rate :   100%
+UE ID : 915Signals : 2737
+Session successful rate :   100%
+UE ID : 916Signals : 2533
+Session successful rate :   100%
+UE ID : 917Signals : 2541
+Session successful rate :   100%
+UE ID : 918Signals : 2861
+Session successful rate :   100%
+UE ID : 919Signals : 3545
+Session successful rate :   100%
+UE ID : 920Signals : 3985
+Session successful rate :   100%
+UE ID : 921Signals : 4013
+Session successful rate :   100%
+UE ID : 922Signals : 4013
+Session successful rate :   100%
+UE ID : 923Signals : 4013
+Session successful rate :   100%
+UE ID : 924Signals : 3997
+Session successful rate :   100%
+UE ID : 925Signals : 4001
+Session successful rate :   100%
+UE ID : 926Signals : 4001
+Session successful rate :   100%
+UE ID : 927Signals : 4005
+Session successful rate :   100%
+UE ID : 928Signals : 4017
+Session successful rate :   100%
+UE ID : 929Signals : 3989
+Session successful rate :   100%
+UE ID : 930Signals : 4013
+Session successful rate :   100%
+UE ID : 931Signals : 4969
+Session successful rate :   100%
+UE ID : 932Signals : 4013
+Session successful rate :   100%
+UE ID : 933Signals : 4869
+Session successful rate :   100%
+UE ID : 934Signals : 7853
+Session successful rate :   100%
+UE ID : 935Signals : 9461
+Session successful rate :   100%
+UE ID : 936Signals : 9517
+Session successful rate :   100%
+UE ID : 937Signals : 9517
+Session successful rate :   100%
+UE ID : 938Signals : 9517
+Session successful rate :   100%
+UE ID : 939Signals : 9517
+Session successful rate :   100%
+UE ID : 940Signals : 9085
+Session successful rate :   100%
+UE ID : 941Signals : 10681
+Session successful rate :   100%
+UE ID : 942Signals : 10741
+Session successful rate :   100%
+UE ID : 943Signals : 10669
+Session successful rate :   100%
+UE ID : 944Signals : 10749
+Session successful rate :   100%
+UE ID : 945Signals : 11481
+Session successful rate :   100%
+UE ID : 946Signals : 14897
+Session successful rate :   100%
+UE ID : 947Signals : 15565
+Session successful rate :   100%
+UE ID : 948Signals : 16405
+Session successful rate :   100%
+UE ID : 949Signals : 18345
+Session successful rate :   100%
+UE ID : 950Signals : 30565
+Session successful rate :   100%
+UE ID : 951Signals : 53197
+Session successful rate :   100%
+UE ID : 952Signals : 47781
+Session successful rate :   100%
+UE ID : 953Signals : 36133
+Session successful rate :   100%
+UE ID : 954Signals : 31177
+Session successful rate :   100%
+UE ID : 955Signals : 30473
+Session successful rate :   100%
+UE ID : 956Signals : 28049
+Session successful rate :   100%
+UE ID : 957Signals : 18745
+Session successful rate :   100%
+UE ID : 958Signals : 15541
+Session successful rate :   100%
+UE ID : 959Signals : 5533
+Session successful rate :   100%
+UE ID : 960Signals : 6053
+Session successful rate :   100%
+UE ID : 961Signals : 6729
+Session successful rate :   100%
+UE ID : 962Signals : 7045
+Session successful rate :   100%
+UE ID : 963Signals : 12601
+Session successful rate :   100%
+UE ID : 964Signals : 21937
+Session successful rate :   100%
+UE ID : 965Signals : 22385
+Session successful rate :   100%
+UE ID : 966Signals : 21677
+Session successful rate :   100%
+UE ID : 967Signals : 21293
+Session successful rate :   100%
+UE ID : 968Signals : 20493
+Session successful rate :   100%
+UE ID : 969Signals : 18073
+Session successful rate :   100%
+UE ID : 970Signals : 18193
+Session successful rate :   100%
+UE ID : 971Signals : 7697
+Session successful rate :   100%
+UE ID : 972Signals : 4701
+Session successful rate :   100%
+UE ID : 973Signals : 4701
+Session successful rate :   100%
+UE ID : 974Signals : 4701
+Session successful rate :   100%
+UE ID : 975Signals : 5241
+Session successful rate :   100%
+UE ID : 976Signals : 7953
+Session successful rate :   100%
+UE ID : 977Signals : 4045
+Session successful rate :   100%
+UE ID : 978Signals : 4173
+Session successful rate :   100%
+UE ID : 979Signals : 4577
+Session successful rate :   100%
+UE ID : 980Signals : 4613
+Session successful rate :   100%
+UE ID : 981Signals : 4649
+Session successful rate :   100%
+UE ID : 982Signals : 4721
+Session successful rate :   100%
+UE ID : 983Signals : 5461
+Session successful rate :   100%
+UE ID : 984Signals : 3685
+Session successful rate :   100%
+UE ID : 985Signals : 2429
+Session successful rate :   100%
+UE ID : 986Signals : 2431
+Session successful rate :   100%
+UE ID : 987Signals : 2431
+Session successful rate :   100%
+UE ID : 988Signals : 2431
+Session successful rate :   100%
+UE ID : 989Signals : 2431
+Session successful rate :   100%
+UE ID : 990Signals : 2323
+Session successful rate :   100%
+UE ID : 991Signals : 2013
+Session successful rate :   100%
+UE ID : 992Signals : 2007
+Session successful rate :   100%
+UE ID : 993Signals : 1913
+Session successful rate :   100%
+UE ID : 994Signals : 1923
+Session successful rate :   100%
+UE ID : 995Signals : 2231
+Session successful rate :   100%
+UE ID : 996Signals : 6301
+Session successful rate :   100%
+UE ID : 997Signals : 10221
+Session successful rate :   100%
+UE ID : 998Signals : 10601
+Session successful rate :   100%
+UE ID : 999Signals : 10593
+Session successful rate :   100%
+UE ID : 1000Signals : 10221
+Session successful rate :   100%
+UE ID : 1001Signals : 2621
+Session successful rate :   100%
+UE ID : 1002Signals : 2609
+Session successful rate :   100%
+UE ID : 1003Signals : 2585
+Session successful rate :   100%
+UE ID : 1004Signals : 2689
+Session successful rate :   100%
+UE ID : 1005Signals : 2341
+Session successful rate :   100%
+UE ID : 1006Signals : 2397
+Session successful rate :   100%
+UE ID : 1007Signals : 2097
+Session successful rate :   100%
+UE ID : 1008Signals : 3565
+Session successful rate :   100%
+UE ID : 1009Signals : 2733
+Session successful rate :   100%
+UE ID : 1010Signals : 2789
+Session successful rate :   100%
+UE ID : 1011Signals : 2817
+Session successful rate :   100%
+UE ID : 1012Signals : 2897
+Session successful rate :   100%
+UE ID : 1013Signals : 2873
+Session successful rate :   100%
+UE ID : 1014Signals : 2785
+Session successful rate :   100%
+UE ID : 1015Signals : 2769
+Session successful rate :   100%
+UE ID : 1016Signals : 2533
+Session successful rate :   100%
+UE ID : 1017Signals : 2541
+Session successful rate :   100%
+UE ID : 1018Signals : 2669
+Session successful rate :   100%
+UE ID : 1019Signals : 2717
+Session successful rate :   100%
+UE ID : 1020Signals : 2845
+Session successful rate :   100%
+UE ID : 1021Signals : 3057
+Session successful rate :   100%
+UE ID : 1022Signals : 2921
+Session successful rate :   100%
+UE ID : 1023Signals : 2621
+Session successful rate :   100%
+UE ID : 1024Signals : 10157
+Session successful rate :   100%
+UE ID : 1025Signals : 2279
+Session successful rate :   100%
+UE ID : 1026Signals : 2279
+Session successful rate :   100%
+UE ID : 1027Signals : 2453
+Session successful rate :   100%
+UE ID : 1028Signals : 2817
+Session successful rate :   100%
+UE ID : 1029Signals : 3085
+Session successful rate :   100%
+UE ID : 1030Signals : 3001
+Session successful rate :   100%
+UE ID : 1031Signals : 3741
+Session successful rate :   100%
+UE ID : 1032Signals : 3853
+Session successful rate :   100%
+UE ID : 1033Signals : 5101
+Session successful rate :   100%
+UE ID : 1034Signals : 9133
+Session successful rate :   100%
+UE ID : 1035Signals : 9517
+Session successful rate :   100%
+UE ID : 1036Signals : 9517
+Session successful rate :   100%
+UE ID : 1037Signals : 9517
+Session successful rate :   100%
+UE ID : 1038Signals : 9517
+Session successful rate :   100%
+UE ID : 1039Signals : 9517
+Session successful rate :   100%
+UE ID : 1040Signals : 10373
+Session successful rate :   100%
+UE ID : 1041Signals : 10741
+Session successful rate :   100%
+UE ID : 1042Signals : 10741
+Session successful rate :   100%
+UE ID : 1043Signals : 10589
+Session successful rate :   100%
+UE ID : 1044Signals : 10033
+Session successful rate :   100%
+UE ID : 1045Signals : 11909
+Session successful rate :   100%
+UE ID : 1046Signals : 15469
+Session successful rate :   100%
+UE ID : 1047Signals : 19793
+Session successful rate :   100%
+UE ID : 1048Signals : 16789
+Session successful rate :   100%
+UE ID : 1049Signals : 16793
+Session successful rate :   100%
+UE ID : 1050Signals : 22965
+Session successful rate :   100%
+UE ID : 1051Signals : 55773
+Session successful rate :   100%
+UE ID : 1052Signals : 52405
+Session successful rate :   100%
+UE ID : 1053Signals : 42269
+Session successful rate :   100%
+UE ID : 1054Signals : 27161
+Session successful rate :   100%
+UE ID : 1055Signals : 28877
+Session successful rate :   100%
+UE ID : 1056Signals : 24653
+Session successful rate :   100%
+UE ID : 1057Signals : 18649
+Session successful rate :   100%
+UE ID : 1058Signals : 18929
+Session successful rate :   100%
+UE ID : 1059Signals : 10001
+Session successful rate :   100%
+UE ID : 1060Signals : 6561
+Session successful rate :   100%
+UE ID : 1061Signals : 6909
+Session successful rate :   100%
+UE ID : 1062Signals : 7013
+Session successful rate :   100%
+UE ID : 1063Signals : 14825
+Session successful rate :   100%
+UE ID : 1064Signals : 21733
+Session successful rate :   100%
+UE ID : 1065Signals : 19241
+Session successful rate :   100%
+UE ID : 1066Signals : 20473
+Session successful rate :   100%
+UE ID : 1067Signals : 17157
+Session successful rate :   100%
+UE ID : 1068Signals : 15173
+Session successful rate :   100%
+UE ID : 1069Signals : 16369
+Session successful rate :   100%
+UE ID : 1070Signals : 22289
+Session successful rate :   100%
+UE ID : 1071Signals : 21601
+Session successful rate :   100%
+UE ID : 1072Signals : 6113
+Session successful rate :   100%
+UE ID : 1073Signals : 5421
+Session successful rate :   100%
+UE ID : 1074Signals : 5581
+Session successful rate :   100%
+UE ID : 1075Signals : 15329
+Session successful rate :   100%
+UE ID : 1076Signals : 5749
+Session successful rate :   100%
+UE ID : 1077Signals : 4089
+Session successful rate :   100%
+UE ID : 1078Signals : 4525
+Session successful rate :   100%
+UE ID : 1079Signals : 4645
+Session successful rate :   100%
+UE ID : 1080Signals : 4649
+Session successful rate :   100%
+UE ID : 1081Signals : 4649
+Session successful rate :   100%
+UE ID : 1082Signals : 4653
+Session successful rate :   100%
+UE ID : 1083Signals : 4753
+Session successful rate :   100%
+UE ID : 1084Signals : 4437
+Session successful rate :   100%
+UE ID : 1085Signals : 2459
+Session successful rate :   100%
+UE ID : 1086Signals : 2425
+Session successful rate :   100%
+UE ID : 1087Signals : 2431
+Session successful rate :   100%
+UE ID : 1088Signals : 2431
+Session successful rate :   100%
+UE ID : 1089Signals : 2419
+Session successful rate :   100%
+UE ID : 1090Signals : 2251
+Session successful rate :   100%
+UE ID : 1091Signals : 2013
+Session successful rate :   100%
+UE ID : 1092Signals : 2889
+Session successful rate :   100%
+UE ID : 1093Signals : 1917
+Session successful rate :   100%
+UE ID : 1094Signals : 1917
+Session successful rate :   100%
+UE ID : 1095Signals : 1917
+Session successful rate :   100%
+UE ID : 1096Signals : 4893
+Session successful rate :   100%
+UE ID : 1097Signals : 10221
+Session successful rate :   100%
+UE ID : 1098Signals : 10601
+Session successful rate :   100%
+UE ID : 1099Signals : 9981
+Session successful rate :   100%
+UE ID : 1100Signals : 10601
+Session successful rate :   100%
+UE ID : 1101Signals : 2629
+Session successful rate :   100%
+UE ID : 1102Signals : 2649
+Session successful rate :   100%
+UE ID : 1103Signals : 2629
+Session successful rate :   100%
+UE ID : 1104Signals : 2725
+Session successful rate :   100%
+UE ID : 1105Signals : 2597
+Session successful rate :   100%
+UE ID : 1106Signals : 1979
+Session successful rate :   100%
+UE ID : 1107Signals : 1353
+Session successful rate :   100%
+UE ID : 1108Signals : 2705
+Session successful rate :   100%
+UE ID : 1109Signals : 2941
+Session successful rate :   100%
+UE ID : 1110Signals : 2969
+Session successful rate :   100%
+UE ID : 1111Signals : 2973
+Session successful rate :   100%
+UE ID : 1112Signals : 2997
+Session successful rate :   100%
+UE ID : 1113Signals : 3001
+Session successful rate :   100%
+UE ID : 1114Signals : 2945
+Session successful rate :   100%
+UE ID : 1115Signals : 2801
+Session successful rate :   100%
+UE ID : 1116Signals : 2769
+Session successful rate :   100%
+UE ID : 1117Signals : 2661
+Session successful rate :   100%
+UE ID : 1118Signals : 2479
+Session successful rate :   100%
+UE ID : 1119Signals : 2717
+Session successful rate :   100%
+UE ID : 1120Signals : 2717
+Session successful rate :   100%
+UE ID : 1121Signals : 2537
+Session successful rate :   100%
+UE ID : 1122Signals : 2281
+Session successful rate :   100%
+UE ID : 1123Signals : 2281
+Session successful rate :   100%
+UE ID : 1124Signals : 2281
+Session successful rate :   100%
+UE ID : 1125Signals : 2281
+Session successful rate :   100%
+UE ID : 1126Signals : 2285
+Session successful rate :   100%
+UE ID : 1127Signals : 2289
+Session successful rate :   100%
+UE ID : 1128Signals : 2231
+Session successful rate :   100%
+UE ID : 1129Signals : 1905
+Session successful rate :   100%
+UE ID : 1130Signals : 2609
+Session successful rate :   100%
+UE ID : 1131Signals : 9981
+Session successful rate :   100%
+UE ID : 1132Signals : 2321
+Session successful rate :   100%
+UE ID : 1133Signals : 3669
+Session successful rate :   100%
+UE ID : 1134Signals : 9369
+Session successful rate :   100%
+UE ID : 1135Signals : 9237
+Session successful rate :   100%
+UE ID : 1136Signals : 9517
+Session successful rate :   100%
+UE ID : 1137Signals : 9517
+Session successful rate :   100%
+UE ID : 1138Signals : 9517
+Session successful rate :   100%
+UE ID : 1139Signals : 9641
+Session successful rate :   100%
+UE ID : 1140Signals : 10713
+Session successful rate :   100%
+UE ID : 1141Signals : 10741
+Session successful rate :   100%
+UE ID : 1142Signals : 10497
+Session successful rate :   100%
+UE ID : 1143Signals : 9485
+Session successful rate :   100%
+UE ID : 1144Signals : 8349
+Session successful rate :   100%
+UE ID : 1145Signals : 8465
+Session successful rate :   100%
+UE ID : 1146Signals : 23861
+Session successful rate :   100%
+UE ID : 1147Signals : 43057
+Session successful rate :   100%
+UE ID : 1148Signals : 16893
+Session successful rate :   100%
+UE ID : 1149Signals : 16793
+Session successful rate :   100%
+UE ID : 1150Signals : 38041
+Session successful rate :   100%
+UE ID : 1151Signals : 64425
+Session successful rate :   100%
+UE ID : 1152Signals : 50613
+Session successful rate :   100%
+UE ID : 1153Signals : 23661
+Session successful rate :   100%
+UE ID : 1154Signals : 16337
+Session successful rate :   100%
+UE ID : 1155Signals : 15029
+Session successful rate :   100%
+UE ID : 1156Signals : 14573
+Session successful rate :   100%
+UE ID : 1157Signals : 17681
+Session successful rate :   100%
+UE ID : 1158Signals : 18697
+Session successful rate :   100%
+UE ID : 1159Signals : 16085
+Session successful rate :   100%
+UE ID : 1160Signals : 8017
+Session successful rate :   100%
+UE ID : 1161Signals : 7045
+Session successful rate :   100%
+UE ID : 1162Signals : 7045
+Session successful rate :   100%
+UE ID : 1163Signals : 11113
+Session successful rate :   100%
+UE ID : 1164Signals : 21373
+Session successful rate :   100%
+UE ID : 1165Signals : 19653
+Session successful rate :   100%
+UE ID : 1166Signals : 15377
+Session successful rate :   100%
+UE ID : 1167Signals : 15181
+Session successful rate :   100%
+UE ID : 1168Signals : 15181
+Session successful rate :   100%
+UE ID : 1169Signals : 15509
+Session successful rate :   100%
+UE ID : 1170Signals : 22385
+Session successful rate :   100%
+UE ID : 1171Signals : 19537
+Session successful rate :   100%
+UE ID : 1172Signals : 5941
+Session successful rate :   100%
+UE ID : 1173Signals : 6001
+Session successful rate :   100%
+UE ID : 1174Signals : 5969
+Session successful rate :   100%
+UE ID : 1175Signals : 5805
+Session successful rate :   100%
+UE ID : 1176Signals : 4505
+Session successful rate :   100%
+UE ID : 1177Signals : 4453
+Session successful rate :   100%
+UE ID : 1178Signals : 4645
+Session successful rate :   100%
+UE ID : 1179Signals : 4649
+Session successful rate :   100%
+UE ID : 1180Signals : 4649
+Session successful rate :   100%
+UE ID : 1181Signals : 4649
+Session successful rate :   100%
+UE ID : 1182Signals : 4841
+Session successful rate :   100%
+UE ID : 1183Signals : 4929
+Session successful rate :   100%
+UE ID : 1184Signals : 4893
+Session successful rate :   100%
+UE ID : 1185Signals : 4549
+Session successful rate :   100%
+UE ID : 1186Signals : 2931
+Session successful rate :   100%
+UE ID : 1187Signals : 2481
+Session successful rate :   100%
+UE ID : 1188Signals : 2431
+Session successful rate :   100%
+UE ID : 1189Signals : 2443
+Session successful rate :   100%
+UE ID : 1190Signals : 2219
+Session successful rate :   100%
+UE ID : 1191Signals : 3965
+Session successful rate :   100%
+UE ID : 1192Signals : 4581
+Session successful rate :   100%
+UE ID : 1193Signals : 2101
+Session successful rate :   100%
+UE ID : 1194Signals : 1923
+Session successful rate :   100%
+UE ID : 1195Signals : 1917
+Session successful rate :   100%
+UE ID : 1196Signals : 4717
+Session successful rate :   100%
+UE ID : 1197Signals : 10581
+Session successful rate :   100%
+UE ID : 1198Signals : 10601
+Session successful rate :   100%
+UE ID : 1199Signals : 10601
+Session successful rate :   100%
+UE ID : 1200Signals : 10617
+Session successful rate :   100%
+UE ID : 1201Signals : 2621
+Session successful rate :   100%
+UE ID : 1202Signals : 2649
+Session successful rate :   100%
+UE ID : 1203Signals : 2685
+Session successful rate :   100%
+UE ID : 1204Signals : 2877
+Session successful rate :   100%
+UE ID : 1205Signals : 3029
+Session successful rate :   100%
+UE ID : 1206Signals : 1821
+Session successful rate :   100%
+UE ID : 1207Signals : 571
+Session successful rate :   100%
+UE ID : 1208Signals : 2573
+Session successful rate :   100%
+UE ID : 1209Signals : 3001
+Session successful rate :   100%
+UE ID : 1210Signals : 2973
+Session successful rate :   100%
+UE ID : 1211Signals : 3161
+Session successful rate :   100%
+UE ID : 1212Signals : 3857
+Session successful rate :   100%
+UE ID : 1213Signals : 3001
+Session successful rate :   100%
+UE ID : 1214Signals : 3001
+Session successful rate :   100%
+UE ID : 1215Signals : 2929
+Session successful rate :   100%
+UE ID : 1216Signals : 2761
+Session successful rate :   100%
+UE ID : 1217Signals : 2565
+Session successful rate :   100%
+UE ID : 1218Signals : 2523
+Session successful rate :   100%
+UE ID : 1219Signals : 2705
+Session successful rate :   100%
+UE ID : 1220Signals : 2721
+Session successful rate :   100%
+UE ID : 1221Signals : 2693
+Session successful rate :   100%
+UE ID : 1222Signals : 2285
+Session successful rate :   100%
+UE ID : 1223Signals : 2281
+Session successful rate :   100%
+UE ID : 1224Signals : 2281
+Session successful rate :   100%
+UE ID : 1225Signals : 2281
+Session successful rate :   100%
+UE ID : 1226Signals : 2281
+Session successful rate :   100%
+UE ID : 1227Signals : 2297
+Session successful rate :   100%
+UE ID : 1228Signals : 2373
+Session successful rate :   100%
+UE ID : 1229Signals : 2305
+Session successful rate :   100%
+UE ID : 1230Signals : 4161
+Session successful rate :   100%
+UE ID : 1231Signals : 2281
+Session successful rate :   100%
+UE ID : 1232Signals : 2281
+Session successful rate :   100%
+UE ID : 1233Signals : 3257
+Session successful rate :   100%
+UE ID : 1234Signals : 6717
+Session successful rate :   100%
+UE ID : 1235Signals : 9481
+Session successful rate :   100%
+UE ID : 1236Signals : 9517
+Session successful rate :   100%
+UE ID : 1237Signals : 9517
+Session successful rate :   100%
+UE ID : 1238Signals : 9517
+Session successful rate :   100%
+UE ID : 1239Signals : 9641
+Session successful rate :   100%
+UE ID : 1240Signals : 10481
+Session successful rate :   100%
+UE ID : 1241Signals : 9045
+Session successful rate :   100%
+UE ID : 1242Signals : 8397
+Session successful rate :   100%
+UE ID : 1243Signals : 8129
+Session successful rate :   100%
+UE ID : 1244Signals : 8125
+Session successful rate :   100%
+UE ID : 1245Signals : 8125
+Session successful rate :   100%
+UE ID : 1246Signals : 34417
+Session successful rate :   100%
+UE ID : 1247Signals : 46213
+Session successful rate :   100%
+UE ID : 1248Signals : 21889
+Session successful rate :   100%
+UE ID : 1249Signals : 18393
+Session successful rate :   100%
+UE ID : 1250Signals : 62717
+Session successful rate :   100%
+UE ID : 1251Signals : 80425
+Session successful rate :   100%
+UE ID : 1252Signals : 21149
+Session successful rate :   100%
+UE ID : 1253Signals : 19713
+Session successful rate :   100%
+UE ID : 1254Signals : 24193
+Session successful rate :   100%
+UE ID : 1255Signals : 15389
+Session successful rate :   100%
+UE ID : 1256Signals : 14769
+Session successful rate :   100%
+UE ID : 1257Signals : 15609
+Session successful rate :   100%
+UE ID : 1258Signals : 16921
+Session successful rate :   100%
+UE ID : 1259Signals : 20889
+Session successful rate :   100%
+UE ID : 1260Signals : 27177
+Session successful rate :   100%
+UE ID : 1261Signals : 5765
+Session successful rate :   100%
+UE ID : 1262Signals : 5561
+Session successful rate :   100%
+UE ID : 1263Signals : 6485
+Session successful rate :   100%
+UE ID : 1264Signals : 13345
+Session successful rate :   100%
+UE ID : 1265Signals : 15445
+Session successful rate :   100%
+UE ID : 1266Signals : 15093
+Session successful rate :   100%
+UE ID : 1267Signals : 15181
+Session successful rate :   100%
+UE ID : 1268Signals : 15181
+Session successful rate :   100%
+UE ID : 1269Signals : 15181
+Session successful rate :   100%
+UE ID : 1270Signals : 16929
+Session successful rate :   100%
+UE ID : 1271Signals : 8121
+Session successful rate :   100%
+UE ID : 1272Signals : 6765
+Session successful rate :   100%
+UE ID : 1273Signals : 6037
+Session successful rate :   100%
+UE ID : 1274Signals : 5809
+Session successful rate :   100%
+UE ID : 1275Signals : 5821
+Session successful rate :   100%
+UE ID : 1276Signals : 5129
+Session successful rate :   100%
+UE ID : 1277Signals : 4649
+Session successful rate :   100%
+UE ID : 1278Signals : 4649
+Session successful rate :   100%
+UE ID : 1279Signals : 4649
+Session successful rate :   100%
+UE ID : 1280Signals : 4781
+Session successful rate :   100%
+UE ID : 1281Signals : 4745
+Session successful rate :   100%
+UE ID : 1282Signals : 5113
+Session successful rate :   100%
+UE ID : 1283Signals : 5377
+Session successful rate :   100%
+UE ID : 1284Signals : 5801
+Session successful rate :   100%
+UE ID : 1285Signals : 12865
+Session successful rate :   100%
+UE ID : 1286Signals : 12469
+Session successful rate :   100%
+UE ID : 1287Signals : 8117
+Session successful rate :   100%
+UE ID : 1288Signals : 3371
+Session successful rate :   100%
+UE ID : 1289Signals : 2443
+Session successful rate :   100%
+UE ID : 1290Signals : 3249
+Session successful rate :   100%
+UE ID : 1291Signals : 5085
+Session successful rate :   100%
+UE ID : 1292Signals : 5041
+Session successful rate :   100%
+UE ID : 1293Signals : 3505
+Session successful rate :   100%
+UE ID : 1294Signals : 1917
+Session successful rate :   100%
+UE ID : 1295Signals : 1917
+Session successful rate :   100%
+UE ID : 1296Signals : 2957
+Session successful rate :   100%
+UE ID : 1297Signals : 10601
+Session successful rate :   100%
+UE ID : 1298Signals : 10601
+Session successful rate :   100%
+UE ID : 1299Signals : 10601
+Session successful rate :   100%
+UE ID : 1300Signals : 11049
+Session successful rate :   100%
+UE ID : 1301Signals : 2621
+Session successful rate :   100%
+UE ID : 1302Signals : 2633
+Session successful rate :   100%
+UE ID : 1303Signals : 2865
+Session successful rate :   100%
+UE ID : 1304Signals : 2997
+Session successful rate :   100%
+UE ID : 1305Signals : 3001
+Session successful rate :   100%
+UE ID : 1306Signals : 2517
+Session successful rate :   100%
+UE ID : 1307Signals : 1561
+Session successful rate :   100%
+UE ID : 1308Signals : 2809
+Session successful rate :   100%
+UE ID : 1309Signals : 3001
+Session successful rate :   100%
+UE ID : 1310Signals : 2301
+Session successful rate :   100%
+UE ID : 1311Signals : 3953
+Session successful rate :   100%
+UE ID : 1312Signals : 3001
+Session successful rate :   100%
+UE ID : 1313Signals : 3001
+Session successful rate :   100%
+UE ID : 1314Signals : 3001
+Session successful rate :   100%
+UE ID : 1315Signals : 3001
+Session successful rate :   100%
+UE ID : 1316Signals : 2669
+Session successful rate :   100%
+UE ID : 1317Signals : 2527
+Session successful rate :   100%
+UE ID : 1318Signals : 2549
+Session successful rate :   100%
+UE ID : 1319Signals : 2741
+Session successful rate :   100%
+UE ID : 1320Signals : 2721
+Session successful rate :   100%
+UE ID : 1321Signals : 2717
+Session successful rate :   100%
+UE ID : 1322Signals : 2321
+Session successful rate :   100%
+UE ID : 1323Signals : 2279
+Session successful rate :   100%
+UE ID : 1324Signals : 2279
+Session successful rate :   100%
+UE ID : 1325Signals : 2285
+Session successful rate :   100%
+UE ID : 1326Signals : 2281
+Session successful rate :   100%
+UE ID : 1327Signals : 2323
+Session successful rate :   100%
+UE ID : 1328Signals : 2341
+Session successful rate :   100%
+UE ID : 1329Signals : 2701
+Session successful rate :   100%
+UE ID : 1330Signals : 2281
+Session successful rate :   100%
+UE ID : 1331Signals : 2281
+Session successful rate :   100%
+UE ID : 1332Signals : 2271
+Session successful rate :   100%
+UE ID : 1333Signals : 3737
+Session successful rate :   100%
+UE ID : 1334Signals : 4037
+Session successful rate :   100%
+UE ID : 1335Signals : 6013
+Session successful rate :   100%
+UE ID : 1336Signals : 9481
+Session successful rate :   100%
+UE ID : 1337Signals : 9517
+Session successful rate :   100%
+UE ID : 1338Signals : 9873
+Session successful rate :   100%
+UE ID : 1339Signals : 12345
+Session successful rate :   100%
+UE ID : 1340Signals : 13193
+Session successful rate :   100%
+UE ID : 1341Signals : 9693
+Session successful rate :   100%
+UE ID : 1342Signals : 8129
+Session successful rate :   100%
+UE ID : 1343Signals : 8129
+Session successful rate :   100%
+UE ID : 1344Signals : 8181
+Session successful rate :   100%
+UE ID : 1345Signals : 10909
+Session successful rate :   100%
+UE ID : 1346Signals : 39025
+Session successful rate :   100%
+UE ID : 1347Signals : 36237
+Session successful rate :   100%
+UE ID : 1348Signals : 22713
+Session successful rate :   100%
+UE ID : 1349Signals : 22985
+Session successful rate :   100%
+UE ID : 1350Signals : 22541
+Session successful rate :   100%
+UE ID : 1351Signals : 24105
+Session successful rate :   100%
+UE ID : 1352Signals : 15765
+Session successful rate :   100%
+UE ID : 1353Signals : 17249
+Session successful rate :   100%
+UE ID : 1354Signals : 20673
+Session successful rate :   100%
+UE ID : 1355Signals : 15709
+Session successful rate :   100%
+UE ID : 1356Signals : 14117
+Session successful rate :   100%
+UE ID : 1357Signals : 12153
+Session successful rate :   100%
+UE ID : 1358Signals : 11237
+Session successful rate :   100%
+UE ID : 1359Signals : 10605
+Session successful rate :   100%
+UE ID : 1360Signals : 5445
+Session successful rate :   100%
+UE ID : 1361Signals : 3433
+Session successful rate :   100%
+UE ID : 1362Signals : 4217
+Session successful rate :   100%
+UE ID : 1363Signals : 4885
+Session successful rate :   100%
+UE ID : 1364Signals : 12689
+Session successful rate :   100%
+UE ID : 1365Signals : 15257
+Session successful rate :   100%
+UE ID : 1366Signals : 14693
+Session successful rate :   100%
+UE ID : 1367Signals : 15181
+Session successful rate :   100%
+UE ID : 1368Signals : 15181
+Session successful rate :   100%
+UE ID : 1369Signals : 15181
+Session successful rate :   100%
+UE ID : 1370Signals : 14825
+Session successful rate :   100%
+UE ID : 1371Signals : 7325
+Session successful rate :   100%
+UE ID : 1372Signals : 6857
+Session successful rate :   100%
+UE ID : 1373Signals : 6825
+Session successful rate :   100%
+UE ID : 1374Signals : 6649
+Session successful rate :   100%
+UE ID : 1375Signals : 6073
+Session successful rate :   100%
+UE ID : 1376Signals : 6733
+Session successful rate :   100%
+UE ID : 1377Signals : 5957
+Session successful rate :   100%
+UE ID : 1378Signals : 4589
+Session successful rate :   100%
+UE ID : 1379Signals : 4517
+Session successful rate :   100%
+UE ID : 1380Signals : 4509
+Session successful rate :   100%
+UE ID : 1381Signals : 4529
+Session successful rate :   100%
+UE ID : 1382Signals : 6849
+Session successful rate :   100%
+UE ID : 1383Signals : 7629
+Session successful rate :   100%
+UE ID : 1384Signals : 9081
+Session successful rate :   100%
+UE ID : 1385Signals : 12749
+Session successful rate :   100%
+UE ID : 1386Signals : 13533
+Session successful rate :   100%
+UE ID : 1387Signals : 13557
+Session successful rate :   100%
+UE ID : 1388Signals : 12917
+Session successful rate :   100%
+UE ID : 1389Signals : 6453
+Session successful rate :   100%
+UE ID : 1390Signals : 5089
+Session successful rate :   100%
+UE ID : 1391Signals : 5149
+Session successful rate :   100%
+UE ID : 1392Signals : 5089
+Session successful rate :   100%
+UE ID : 1393Signals : 4937
+Session successful rate :   100%
+UE ID : 1394Signals : 3525
+Session successful rate :   100%
+UE ID : 1395Signals : 6205
+Session successful rate :   100%
+UE ID : 1396Signals : 12013
+Session successful rate :   100%
+UE ID : 1397Signals : 12661
+Session successful rate :   100%
+UE ID : 1398Signals : 11201
+Session successful rate :   100%
+UE ID : 1399Signals : 11861
+Session successful rate :   100%
+UE ID : 1400Signals : 14229
+Session successful rate :   100%
+UE ID : 1401Signals : 2661
+Session successful rate :   100%
+UE ID : 1402Signals : 2937
+Session successful rate :   100%
+UE ID : 1403Signals : 2705
+Session successful rate :   100%
+UE ID : 1404Signals : 2953
+Session successful rate :   100%
+UE ID : 1405Signals : 3001
+Session successful rate :   100%
+UE ID : 1406Signals : 2785
+Session successful rate :   100%
+UE ID : 1407Signals : 2653
+Session successful rate :   100%
+UE ID : 1408Signals : 3001
+Session successful rate :   100%
+UE ID : 1409Signals : 3001
+Session successful rate :   100%
+UE ID : 1410Signals : 3001
+Session successful rate :   100%
+UE ID : 1411Signals : 3745
+Session successful rate :   100%
+UE ID : 1412Signals : 3001
+Session successful rate :   100%
+UE ID : 1413Signals : 3001
+Session successful rate :   100%
+UE ID : 1414Signals : 3001
+Session successful rate :   100%
+UE ID : 1415Signals : 3037
+Session successful rate :   100%
+UE ID : 1416Signals : 2543
+Session successful rate :   100%
+UE ID : 1417Signals : 2873
+Session successful rate :   100%
+UE ID : 1418Signals : 3341
+Session successful rate :   100%
+UE ID : 1419Signals : 3189
+Session successful rate :   100%
+UE ID : 1420Signals : 2657
+Session successful rate :   100%
+UE ID : 1421Signals : 2753
+Session successful rate :   100%
+UE ID : 1422Signals : 2457
+Session successful rate :   100%
+UE ID : 1423Signals : 2313
+Session successful rate :   100%
+UE ID : 1424Signals : 2313
+Session successful rate :   100%
+UE ID : 1425Signals : 2321
+Session successful rate :   100%
+UE ID : 1426Signals : 2309
+Session successful rate :   100%
+UE ID : 1427Signals : 2341
+Session successful rate :   100%
+UE ID : 1428Signals : 2333
+Session successful rate :   100%
+UE ID : 1429Signals : 2313
+Session successful rate :   100%
+UE ID : 1430Signals : 2317
+Session successful rate :   100%
+UE ID : 1431Signals : 2291
+Session successful rate :   100%
+UE ID : 1432Signals : 2181
+Session successful rate :   100%
+UE ID : 1433Signals : 2169
+Session successful rate :   100%
+UE ID : 1434Signals : 4945
+Session successful rate :   100%
+UE ID : 1435Signals : 3857
+Session successful rate :   100%
+UE ID : 1436Signals : 6853
+Session successful rate :   100%
+UE ID : 1437Signals : 8565
+Session successful rate :   100%
+UE ID : 1438Signals : 8861
+Session successful rate :   100%
+UE ID : 1439Signals : 14305
+Session successful rate :   100%
+UE ID : 1440Signals : 16749
+Session successful rate :   100%
+UE ID : 1441Signals : 12285
+Session successful rate :   100%
+UE ID : 1442Signals : 8821
+Session successful rate :   100%
+UE ID : 1443Signals : 12129
+Session successful rate :   100%
+UE ID : 1444Signals : 16333
+Session successful rate :   100%
+UE ID : 1445Signals : 18681
+Session successful rate :   100%
+UE ID : 1446Signals : 18817
+Session successful rate :   100%
+UE ID : 1447Signals : 20885
+Session successful rate :   100%
+UE ID : 1448Signals : 17333
+Session successful rate :   100%
+UE ID : 1449Signals : 17641
+Session successful rate :   100%
+UE ID : 1450Signals : 17385
+Session successful rate :   100%
+UE ID : 1451Signals : 18077
+Session successful rate :   100%
+UE ID : 1452Signals : 26641
+Session successful rate :   100%
+UE ID : 1453Signals : 23693
+Session successful rate :   100%
+UE ID : 1454Signals : 22469
+Session successful rate :   100%
+UE ID : 1455Signals : 17901
+Session successful rate :   100%
+UE ID : 1456Signals : 14553
+Session successful rate :   100%
+UE ID : 1457Signals : 12901
+Session successful rate :   100%
+UE ID : 1458Signals : 12689
+Session successful rate :   100%
+UE ID : 1459Signals : 11841
+Session successful rate :   100%
+UE ID : 1460Signals : 5525
+Session successful rate :   100%
+UE ID : 1461Signals : 3033
+Session successful rate :   100%
+UE ID : 1462Signals : 3461
+Session successful rate :   100%
+UE ID : 1463Signals : 4013
+Session successful rate :   100%
+UE ID : 1464Signals : 6257
+Session successful rate :   100%
+UE ID : 1465Signals : 14941
+Session successful rate :   100%
+UE ID : 1466Signals : 15181
+Session successful rate :   100%
+UE ID : 1467Signals : 15181
+Session successful rate :   100%
+UE ID : 1468Signals : 15181
+Session successful rate :   100%
+UE ID : 1469Signals : 15181
+Session successful rate :   100%
+UE ID : 1470Signals : 15181
+Session successful rate :   100%
+UE ID : 1471Signals : 9589
+Session successful rate :   100%
+UE ID : 1472Signals : 6861
+Session successful rate :   100%
+UE ID : 1473Signals : 6929
+Session successful rate :   100%
+UE ID : 1474Signals : 7305
+Session successful rate :   100%
+UE ID : 1475Signals : 6577
+Session successful rate :   100%
+UE ID : 1476Signals : 7413
+Session successful rate :   100%
+UE ID : 1477Signals : 7513
+Session successful rate :   100%
+UE ID : 1478Signals : 7029
+Session successful rate :   100%
+UE ID : 1479Signals : 5305
+Session successful rate :   100%
+UE ID : 1480Signals : 4497
+Session successful rate :   100%
+UE ID : 1481Signals : 4873
+Session successful rate :   100%
+UE ID : 1482Signals : 5845
+Session successful rate :   100%
+UE ID : 1483Signals : 7521
+Session successful rate :   100%
+UE ID : 1484Signals : 8241
+Session successful rate :   100%
+UE ID : 1485Signals : 11621
+Session successful rate :   100%
+UE ID : 1486Signals : 13297
+Session successful rate :   100%
+UE ID : 1487Signals : 13541
+Session successful rate :   100%
+UE ID : 1488Signals : 13533
+Session successful rate :   100%
+UE ID : 1489Signals : 12637
+Session successful rate :   100%
+UE ID : 1490Signals : 5817
+Session successful rate :   100%
+UE ID : 1491Signals : 8957
+Session successful rate :   100%
+UE ID : 1492Signals : 11121
+Session successful rate :   100%
+UE ID : 1493Signals : 10345
+Session successful rate :   100%
+UE ID : 1494Signals : 12173
+Session successful rate :   100%
+UE ID : 1495Signals : 15637
+Session successful rate :   100%
+UE ID : 1496Signals : 15721
+Session successful rate :   100%
+UE ID : 1497Signals : 15721
+Session successful rate :   100%
+UE ID : 1498Signals : 15401
+Session successful rate :   100%
+UE ID : 1499Signals : 14413
+Session successful rate :   100%
+UE ID : 1500Signals : 14341
+Session successful rate :   100%
+UE ID : 1501Signals : 2869
+Session successful rate :   100%
+UE ID : 1502Signals : 3001
+Session successful rate :   100%
+UE ID : 1503Signals : 2813
+Session successful rate :   100%
+UE ID : 1504Signals : 2937
+Session successful rate :   100%
+UE ID : 1505Signals : 3001
+Session successful rate :   100%
+UE ID : 1506Signals : 3745
+Session successful rate :   100%
+UE ID : 1507Signals : 3541
+Session successful rate :   100%
+UE ID : 1508Signals : 3001
+Session successful rate :   100%
+UE ID : 1509Signals : 3001
+Session successful rate :   100%
+UE ID : 1510Signals : 3001
+Session successful rate :   100%
+UE ID : 1511Signals : 3581
+Session successful rate :   100%
+UE ID : 1512Signals : 3001
+Session successful rate :   100%
+UE ID : 1513Signals : 3001
+Session successful rate :   100%
+UE ID : 1514Signals : 3081
+Session successful rate :   100%
+UE ID : 1515Signals : 3141
+Session successful rate :   100%
+UE ID : 1516Signals : 3221
+Session successful rate :   100%
+UE ID : 1517Signals : 3377
+Session successful rate :   100%
+UE ID : 1518Signals : 3385
+Session successful rate :   100%
+UE ID : 1519Signals : 3273
+Session successful rate :   100%
+UE ID : 1520Signals : 2897
+Session successful rate :   100%
+UE ID : 1521Signals : 2777
+Session successful rate :   100%
+UE ID : 1522Signals : 2525
+Session successful rate :   100%
+UE ID : 1523Signals : 2345
+Session successful rate :   100%
+UE ID : 1524Signals : 2345
+Session successful rate :   100%
+UE ID : 1525Signals : 2345
+Session successful rate :   100%
+UE ID : 1526Signals : 2345
+Session successful rate :   100%
+UE ID : 1527Signals : 2345
+Session successful rate :   100%
+UE ID : 1528Signals : 2341
+Session successful rate :   100%
+UE ID : 1529Signals : 2341
+Session successful rate :   100%
+UE ID : 1530Signals : 2341
+Session successful rate :   100%
+UE ID : 1531Signals : 2257
+Session successful rate :   100%
+UE ID : 1532Signals : 2169
+Session successful rate :   100%
+UE ID : 1533Signals : 2643
+Session successful rate :   100%
+UE ID : 1534Signals : 1375
+Session successful rate :   100%
+UE ID : 1535Signals : 4225
+Session successful rate :   100%
+UE ID : 1536Signals : 3857
+Session successful rate :   100%
+UE ID : 1537Signals : 7817
+Session successful rate :   100%
+UE ID : 1538Signals : 8345
+Session successful rate :   100%
+UE ID : 1539Signals : 5589
+Session successful rate :   100%
+UE ID : 1540Signals : 12281
+Session successful rate :   100%
+UE ID : 1541Signals : 11437
+Session successful rate :   100%
+UE ID : 1542Signals : 6861
+Session successful rate :   100%
+UE ID : 1543Signals : 6889
+Session successful rate :   100%
+UE ID : 1544Signals : 13069
+Session successful rate :   100%
+UE ID : 1545Signals : 18589
+Session successful rate :   100%
+UE ID : 1546Signals : 18817
+Session successful rate :   100%
+UE ID : 1547Signals : 20601
+Session successful rate :   100%
+UE ID : 1548Signals : 19025
+Session successful rate :   100%
+UE ID : 1549Signals : 18121
+Session successful rate :   100%
+UE ID : 1550Signals : 16985
+Session successful rate :   100%
+UE ID : 1551Signals : 19713
+Session successful rate :   100%
+UE ID : 1552Signals : 31081
+Session successful rate :   100%
+UE ID : 1553Signals : 30053
+Session successful rate :   100%
+UE ID : 1554Signals : 24937
+Session successful rate :   100%
+UE ID : 1555Signals : 29113
+Session successful rate :   100%
+UE ID : 1556Signals : 17593
+Session successful rate :   100%
+UE ID : 1557Signals : 13269
+Session successful rate :   100%
+UE ID : 1558Signals : 13225
+Session successful rate :   100%
+UE ID : 1559Signals : 12341
+Session successful rate :   100%
+UE ID : 1560Signals : 3529
+Session successful rate :   100%
+UE ID : 1561Signals : 3033
+Session successful rate :   100%
+UE ID : 1562Signals : 3045
+Session successful rate :   100%
+UE ID : 1563Signals : 3061
+Session successful rate :   100%
+UE ID : 1564Signals : 3553
+Session successful rate :   100%
+UE ID : 1565Signals : 7949
+Session successful rate :   100%
+UE ID : 1566Signals : 13757
+Session successful rate :   100%
+UE ID : 1567Signals : 12481
+Session successful rate :   100%
+UE ID : 1568Signals : 11129
+Session successful rate :   100%
+UE ID : 1569Signals : 11073
+Session successful rate :   100%
+UE ID : 1570Signals : 10437
+Session successful rate :   100%
+UE ID : 1571Signals : 9525
+Session successful rate :   100%
+UE ID : 1572Signals : 7193
+Session successful rate :   100%
+UE ID : 1573Signals : 7341
+Session successful rate :   100%
+UE ID : 1574Signals : 7253
+Session successful rate :   100%
+UE ID : 1575Signals : 7281
+Session successful rate :   100%
+UE ID : 1576Signals : 7513
+Session successful rate :   100%
+UE ID : 1577Signals : 7513
+Session successful rate :   100%
+UE ID : 1578Signals : 7513
+Session successful rate :   100%
+UE ID : 1579Signals : 7261
+Session successful rate :   100%
+UE ID : 1580Signals : 5613
+Session successful rate :   100%
+UE ID : 1581Signals : 5197
+Session successful rate :   100%
+UE ID : 1582Signals : 4997
+Session successful rate :   100%
+UE ID : 1583Signals : 19301
+Session successful rate :   100%
+UE ID : 1584Signals : 31853
+Session successful rate :   100%
+UE ID : 1585Signals : 21481
+Session successful rate :   100%
+UE ID : 1586Signals : 15549
+Session successful rate :   100%
+UE ID : 1587Signals : 14929
+Session successful rate :   100%
+UE ID : 1588Signals : 14749
+Session successful rate :   100%
+UE ID : 1589Signals : 16821
+Session successful rate :   100%
+UE ID : 1590Signals : 15453
+Session successful rate :   100%
+UE ID : 1591Signals : 16133
+Session successful rate :   100%
+UE ID : 1592Signals : 16105
+Session successful rate :   100%
+UE ID : 1593Signals : 16113
+Session successful rate :   100%
+UE ID : 1594Signals : 15413
+Session successful rate :   100%
+UE ID : 1595Signals : 15345
+Session successful rate :   100%
+UE ID : 1596Signals : 15721
+Session successful rate :   100%
+UE ID : 1597Signals : 15701
+Session successful rate :   100%
+UE ID : 1598Signals : 12541
+Session successful rate :   100%
+UE ID : 1599Signals : 12917
+Session successful rate :   100%
+UE ID : 1600Signals : 11973
+Session successful rate :   100%
+UE ID : 1601Signals : 2969
+Session successful rate :   100%
+UE ID : 1602Signals : 3001
+Session successful rate :   100%
+UE ID : 1603Signals : 3001
+Session successful rate :   100%
+UE ID : 1604Signals : 3001
+Session successful rate :   100%
+UE ID : 1605Signals : 2969
+Session successful rate :   100%
+UE ID : 1606Signals : 2869
+Session successful rate :   100%
+UE ID : 1607Signals : 2925
+Session successful rate :   100%
+UE ID : 1608Signals : 3001
+Session successful rate :   100%
+UE ID : 1609Signals : 3001
+Session successful rate :   100%
+UE ID : 1610Signals : 3237
+Session successful rate :   100%
+UE ID : 1611Signals : 3237
+Session successful rate :   100%
+UE ID : 1612Signals : 3449
+Session successful rate :   100%
+UE ID : 1613Signals : 3241
+Session successful rate :   100%
+UE ID : 1614Signals : 3181
+Session successful rate :   100%
+UE ID : 1615Signals : 10437
+Session successful rate :   100%
+UE ID : 1616Signals : 3385
+Session successful rate :   100%
+UE ID : 1617Signals : 3381
+Session successful rate :   100%
+UE ID : 1618Signals : 3381
+Session successful rate :   100%
+UE ID : 1619Signals : 3385
+Session successful rate :   100%
+UE ID : 1620Signals : 2989
+Session successful rate :   100%
+UE ID : 1621Signals : 2681
+Session successful rate :   100%
+UE ID : 1622Signals : 2801
+Session successful rate :   100%
+UE ID : 1623Signals : 2345
+Session successful rate :   100%
+UE ID : 1624Signals : 2345
+Session successful rate :   100%
+UE ID : 1625Signals : 2345
+Session successful rate :   100%
+UE ID : 1626Signals : 2361
+Session successful rate :   100%
+UE ID : 1627Signals : 4885
+Session successful rate :   100%
+UE ID : 1628Signals : 2257
+Session successful rate :   100%
+UE ID : 1629Signals : 2509
+Session successful rate :   100%
+UE ID : 1630Signals : 2401
+Session successful rate :   100%
+UE ID : 1631Signals : 2185
+Session successful rate :   100%
+UE ID : 1632Signals : 2169
+Session successful rate :   100%
+UE ID : 1633Signals : 3865
+Session successful rate :   100%
+UE ID : 1634Signals : 2245
+Session successful rate :   100%
+UE ID : 1635Signals : 2169
+Session successful rate :   100%
+UE ID : 1636Signals : 4877
+Session successful rate :   100%
+UE ID : 1637Signals : 11321
+Session successful rate :   100%
+UE ID : 1638Signals : 11657
+Session successful rate :   100%
+UE ID : 1639Signals : 10045
+Session successful rate :   100%
+UE ID : 1640Signals : 7685
+Session successful rate :   100%
+UE ID : 1641Signals : 24529
+Session successful rate :   100%
+UE ID : 1642Signals : 10117
+Session successful rate :   100%
+UE ID : 1643Signals : 6803
+Session successful rate :   100%
+UE ID : 1644Signals : 6779
+Session successful rate :   100%
+UE ID : 1645Signals : 8837
+Session successful rate :   100%
+UE ID : 1646Signals : 22089
+Session successful rate :   100%
+UE ID : 1647Signals : 25513
+Session successful rate :   100%
+UE ID : 1648Signals : 23317
+Session successful rate :   100%
+UE ID : 1649Signals : 19549
+Session successful rate :   100%
+UE ID : 1650Signals : 13949
+Session successful rate :   100%
+UE ID : 1651Signals : 15885
+Session successful rate :   100%
+UE ID : 1652Signals : 31581
+Session successful rate :   100%
+UE ID : 1653Signals : 34253
+Session successful rate :   100%
+UE ID : 1654Signals : 35913
+Session successful rate :   100%
+UE ID : 1655Signals : 36397
+Session successful rate :   100%
+UE ID : 1656Signals : 34657
+Session successful rate :   100%
+UE ID : 1657Signals : 18825
+Session successful rate :   100%
+UE ID : 1658Signals : 13253
+Session successful rate :   100%
+UE ID : 1659Signals : 11373
+Session successful rate :   100%
+UE ID : 1660Signals : 3457
+Session successful rate :   100%
+UE ID : 1661Signals : 3041
+Session successful rate :   100%
+UE ID : 1662Signals : 3045
+Session successful rate :   100%
+UE ID : 1663Signals : 3045
+Session successful rate :   100%
+UE ID : 1664Signals : 3045
+Session successful rate :   100%
+UE ID : 1665Signals : 3061
+Session successful rate :   100%
+UE ID : 1666Signals : 6777
+Session successful rate :   100%
+UE ID : 1667Signals : 7041
+Session successful rate :   100%
+UE ID : 1668Signals : 6837
+Session successful rate :   100%
+UE ID : 1669Signals : 7501
+Session successful rate :   100%
+UE ID : 1670Signals : 7221
+Session successful rate :   100%
+UE ID : 1671Signals : 7089
+Session successful rate :   100%
+UE ID : 1672Signals : 7277
+Session successful rate :   100%
+UE ID : 1673Signals : 7245
+Session successful rate :   100%
+UE ID : 1674Signals : 7549
+Session successful rate :   100%
+UE ID : 1675Signals : 7593
+Session successful rate :   100%
+UE ID : 1676Signals : 7513
+Session successful rate :   100%
+UE ID : 1677Signals : 7513
+Session successful rate :   100%
+UE ID : 1678Signals : 7513
+Session successful rate :   100%
+UE ID : 1679Signals : 7417
+Session successful rate :   100%
+UE ID : 1680Signals : 6561
+Session successful rate :   100%
+UE ID : 1681Signals : 5129
+Session successful rate :   100%
+UE ID : 1682Signals : 4965
+Session successful rate :   100%
+UE ID : 1683Signals : 19881
+Session successful rate :   100%
+UE ID : 1684Signals : 33349
+Session successful rate :   100%
+UE ID : 1685Signals : 22317
+Session successful rate :   100%
+UE ID : 1686Signals : 15941
+Session successful rate :   100%
+UE ID : 1687Signals : 16385
+Session successful rate :   100%
+UE ID : 1688Signals : 17389
+Session successful rate :   100%
+UE ID : 1689Signals : 17701
+Session successful rate :   100%
+UE ID : 1690Signals : 17573
+Session successful rate :   100%
+UE ID : 1691Signals : 16201
+Session successful rate :   100%
+UE ID : 1692Signals : 16137
+Session successful rate :   100%
+UE ID : 1693Signals : 16117
+Session successful rate :   100%
+UE ID : 1694Signals : 19437
+Session successful rate :   100%
+UE ID : 1695Signals : 19621
+Session successful rate :   100%
+UE ID : 1696Signals : 21729
+Session successful rate :   100%
+UE ID : 1697Signals : 21277
+Session successful rate :   100%
+UE ID : 1698Signals : 9089
+Session successful rate :   100%
+UE ID : 1699Signals : 8457
+Session successful rate :   100%
+UE ID : 1700Signals : 9345
+Session successful rate :   100%
+UE ID : 1701Signals : 2769
+Session successful rate :   100%
+UE ID : 1702Signals : 2969
+Session successful rate :   100%
+UE ID : 1703Signals : 2901
+Session successful rate :   100%
+UE ID : 1704Signals : 2985
+Session successful rate :   100%
+UE ID : 1705Signals : 2933
+Session successful rate :   100%
+UE ID : 1706Signals : 2993
+Session successful rate :   100%
+UE ID : 1707Signals : 2997
+Session successful rate :   100%
+UE ID : 1708Signals : 3001
+Session successful rate :   100%
+UE ID : 1709Signals : 3249
+Session successful rate :   100%
+UE ID : 1710Signals : 3669
+Session successful rate :   100%
+UE ID : 1711Signals : 4009
+Session successful rate :   100%
+UE ID : 1712Signals : 3669
+Session successful rate :   100%
+UE ID : 1713Signals : 3813
+Session successful rate :   100%
+UE ID : 1714Signals : 5201
+Session successful rate :   100%
+UE ID : 1715Signals : 8593
+Session successful rate :   100%
+UE ID : 1716Signals : 4045
+Session successful rate :   100%
+UE ID : 1717Signals : 3289
+Session successful rate :   100%
+UE ID : 1718Signals : 3773
+Session successful rate :   100%
+UE ID : 1719Signals : 3385
+Session successful rate :   100%
+UE ID : 1720Signals : 2837
+Session successful rate :   100%
+UE ID : 1721Signals : 2489
+Session successful rate :   100%
+UE ID : 1722Signals : 2385
+Session successful rate :   100%
+UE ID : 1723Signals : 2345
+Session successful rate :   100%
+UE ID : 1724Signals : 2289
+Session successful rate :   100%
+UE ID : 1725Signals : 2909
+Session successful rate :   100%
+UE ID : 1726Signals : 2473
+Session successful rate :   100%
+UE ID : 1727Signals : 3285
+Session successful rate :   100%
+UE ID : 1728Signals : 2689
+Session successful rate :   100%
+UE ID : 1729Signals : 2657
+Session successful rate :   100%
+UE ID : 1730Signals : 2621
+Session successful rate :   100%
+UE ID : 1731Signals : 2423
+Session successful rate :   100%
+UE ID : 1732Signals : 2169
+Session successful rate :   100%
+UE ID : 1733Signals : 2169
+Session successful rate :   100%
+UE ID : 1734Signals : 2169
+Session successful rate :   100%
+UE ID : 1735Signals : 3371
+Session successful rate :   100%
+UE ID : 1736Signals : 9005
+Session successful rate :   100%
+UE ID : 1737Signals : 11657
+Session successful rate :   100%
+UE ID : 1738Signals : 11657
+Session successful rate :   100%
+UE ID : 1739Signals : 11657
+Session successful rate :   100%
+UE ID : 1740Signals : 8145
+Session successful rate :   100%
+UE ID : 1741Signals : 18033
+Session successful rate :   100%
+UE ID : 1742Signals : 23041
+Session successful rate :   100%
+UE ID : 1743Signals : 8005
+Session successful rate :   100%
+UE ID : 1744Signals : 6787
+Session successful rate :   100%
+UE ID : 1745Signals : 6761
+Session successful rate :   100%
+UE ID : 1746Signals : 13269
+Session successful rate :   100%
+UE ID : 1747Signals : 25513
+Session successful rate :   100%
+UE ID : 1748Signals : 25885
+Session successful rate :   100%
+UE ID : 1749Signals : 19549
+Session successful rate :   100%
+UE ID : 1750Signals : 13669
+Session successful rate :   100%
+UE ID : 1751Signals : 12017
+Session successful rate :   100%
+UE ID : 1752Signals : 26361
+Session successful rate :   100%
+UE ID : 1753Signals : 27405
+Session successful rate :   100%
+UE ID : 1754Signals : 31641
+Session successful rate :   100%
+UE ID : 1755Signals : 36385
+Session successful rate :   100%
+UE ID : 1756Signals : 36341
+Session successful rate :   100%
+UE ID : 1757Signals : 32629
+Session successful rate :   100%
+UE ID : 1758Signals : 15225
+Session successful rate :   100%
+UE ID : 1759Signals : 8097
+Session successful rate :   100%
+UE ID : 1760Signals : 3033
+Session successful rate :   100%
+UE ID : 1761Signals : 3045
+Session successful rate :   100%
+UE ID : 1762Signals : 3045
+Session successful rate :   100%
+UE ID : 1763Signals : 3045
+Session successful rate :   100%
+UE ID : 1764Signals : 3045
+Session successful rate :   100%
+UE ID : 1765Signals : 3045
+Session successful rate :   100%
+UE ID : 1766Signals : 6817
+Session successful rate :   100%
+UE ID : 1767Signals : 7049
+Session successful rate :   100%
+UE ID : 1768Signals : 7041
+Session successful rate :   100%
+UE ID : 1769Signals : 7049
+Session successful rate :   100%
+UE ID : 1770Signals : 7101
+Session successful rate :   100%
+UE ID : 1771Signals : 7377
+Session successful rate :   100%
+UE ID : 1772Signals : 7589
+Session successful rate :   100%
+UE ID : 1773Signals : 7341
+Session successful rate :   100%
+UE ID : 1774Signals : 7325
+Session successful rate :   100%
+UE ID : 1775Signals : 7593
+Session successful rate :   100%
+UE ID : 1776Signals : 7513
+Session successful rate :   100%
+UE ID : 1777Signals : 7513
+Session successful rate :   100%
+UE ID : 1778Signals : 7489
+Session successful rate :   100%
+UE ID : 1779Signals : 7497
+Session successful rate :   100%
+UE ID : 1780Signals : 7489
+Session successful rate :   100%
+UE ID : 1781Signals : 6845
+Session successful rate :   100%
+UE ID : 1782Signals : 8105
+Session successful rate :   100%
+UE ID : 1783Signals : 19657
+Session successful rate :   100%
+UE ID : 1784Signals : 21557
+Session successful rate :   100%
+UE ID : 1785Signals : 20729
+Session successful rate :   100%
+UE ID : 1786Signals : 16441
+Session successful rate :   100%
+UE ID : 1787Signals : 17517
+Session successful rate :   100%
+UE ID : 1788Signals : 17833
+Session successful rate :   100%
+UE ID : 1789Signals : 17701
+Session successful rate :   100%
+UE ID : 1790Signals : 17701
+Session successful rate :   100%
+UE ID : 1791Signals : 17537
+Session successful rate :   100%
+UE ID : 1792Signals : 16209
+Session successful rate :   100%
+UE ID : 1793Signals : 16081
+Session successful rate :   100%
+UE ID : 1794Signals : 22297
+Session successful rate :   100%
+UE ID : 1795Signals : 23329
+Session successful rate :   100%
+UE ID : 1796Signals : 22385
+Session successful rate :   100%
+UE ID : 1797Signals : 22921
+Session successful rate :   100%
+UE ID : 1798Signals : 11021
+Session successful rate :   100%
+UE ID : 1799Signals : 3649
+Session successful rate :   100%
+UE ID : 1800Signals : 1743
+Session successful rate :   100%
+UE ID : 1801Signals : 2245
+Session successful rate :   100%
+UE ID : 1802Signals : 2909
+Session successful rate :   100%
+UE ID : 1803Signals : 2885
+Session successful rate :   100%
+UE ID : 1804Signals : 2829
+Session successful rate :   100%
+UE ID : 1805Signals : 2885
+Session successful rate :   100%
+UE ID : 1806Signals : 2985
+Session successful rate :   100%
+UE ID : 1807Signals : 2845
+Session successful rate :   100%
+UE ID : 1808Signals : 3053
+Session successful rate :   100%
+UE ID : 1809Signals : 3581
+Session successful rate :   100%
+UE ID : 1810Signals : 3669
+Session successful rate :   100%
+UE ID : 1811Signals : 3945
+Session successful rate :   100%
+UE ID : 1812Signals : 4721
+Session successful rate :   100%
+UE ID : 1813Signals : 5037
+Session successful rate :   100%
+UE ID : 1814Signals : 6221
+Session successful rate :   100%
+UE ID : 1815Signals : 7105
+Session successful rate :   100%
+UE ID : 1816Signals : 5893
+Session successful rate :   100%
+UE ID : 1817Signals : 3385
+Session successful rate :   100%
+UE ID : 1818Signals : 3385
+Session successful rate :   100%
+UE ID : 1819Signals : 3385
+Session successful rate :   100%
+UE ID : 1820Signals : 2881
+Session successful rate :   100%
+UE ID : 1821Signals : 2349
+Session successful rate :   100%
+UE ID : 1822Signals : 2237
+Session successful rate :   100%
+UE ID : 1823Signals : 2101
+Session successful rate :   100%
+UE ID : 1824Signals : 2225
+Session successful rate :   100%
+UE ID : 1825Signals : 3537
+Session successful rate :   100%
+UE ID : 1826Signals : 2617
+Session successful rate :   100%
+UE ID : 1827Signals : 2657
+Session successful rate :   100%
+UE ID : 1828Signals : 2657
+Session successful rate :   100%
+UE ID : 1829Signals : 2657
+Session successful rate :   100%
+UE ID : 1830Signals : 2585
+Session successful rate :   100%
+UE ID : 1831Signals : 2381
+Session successful rate :   100%
+UE ID : 1832Signals : 2195
+Session successful rate :   100%
+UE ID : 1833Signals : 2169
+Session successful rate :   100%
+UE ID : 1834Signals : 2169
+Session successful rate :   100%
+UE ID : 1835Signals : 3597
+Session successful rate :   100%
+UE ID : 1836Signals : 10453
+Session successful rate :   100%
+UE ID : 1837Signals : 11657
+Session successful rate :   100%
+UE ID : 1838Signals : 11657
+Session successful rate :   100%
+UE ID : 1839Signals : 11657
+Session successful rate :   100%
+UE ID : 1840Signals : 11557
+Session successful rate :   100%
+UE ID : 1841Signals : 14913
+Session successful rate :   100%
+UE ID : 1842Signals : 25185
+Session successful rate :   100%
+UE ID : 1843Signals : 17813
+Session successful rate :   100%
+UE ID : 1844Signals : 6981
+Session successful rate :   100%
+UE ID : 1845Signals : 6787
+Session successful rate :   100%
+UE ID : 1846Signals : 11665
+Session successful rate :   100%
+UE ID : 1847Signals : 34685
+Session successful rate :   100%
+UE ID : 1848Signals : 40681
+Session successful rate :   100%
+UE ID : 1849Signals : 33801
+Session successful rate :   100%
+UE ID : 1850Signals : 15773
+Session successful rate :   100%
+UE ID : 1851Signals : 14169
+Session successful rate :   100%
+UE ID : 1852Signals : 22141
+Session successful rate :   100%
+UE ID : 1853Signals : 23089
+Session successful rate :   100%
+UE ID : 1854Signals : 24121
+Session successful rate :   100%
+UE ID : 1855Signals : 34585
+Session successful rate :   100%
+UE ID : 1856Signals : 35977
+Session successful rate :   100%
+UE ID : 1857Signals : 31417
+Session successful rate :   100%
+UE ID : 1858Signals : 12037
+Session successful rate :   100%
+UE ID : 1859Signals : 6129
+Session successful rate :   100%
+UE ID : 1860Signals : 3037
+Session successful rate :   100%
+UE ID : 1861Signals : 3045
+Session successful rate :   100%
+UE ID : 1862Signals : 3045
+Session successful rate :   100%
+UE ID : 1863Signals : 3045
+Session successful rate :   100%
+UE ID : 1864Signals : 3045
+Session successful rate :   100%
+UE ID : 1865Signals : 3045
+Session successful rate :   100%
+UE ID : 1866Signals : 6817
+Session successful rate :   100%
+UE ID : 1867Signals : 7049
+Session successful rate :   100%
+UE ID : 1868Signals : 7049
+Session successful rate :   100%
+UE ID : 1869Signals : 7049
+Session successful rate :   100%
+UE ID : 1870Signals : 7149
+Session successful rate :   100%
+UE ID : 1871Signals : 7509
+Session successful rate :   100%
+UE ID : 1872Signals : 7517
+Session successful rate :   100%
+UE ID : 1873Signals : 6565
+Session successful rate :   100%
+UE ID : 1874Signals : 6621
+Session successful rate :   100%
+UE ID : 1875Signals : 7709
+Session successful rate :   100%
+UE ID : 1876Signals : 7545
+Session successful rate :   100%
+UE ID : 1877Signals : 7605
+Session successful rate :   100%
+UE ID : 1878Signals : 7657
+Session successful rate :   100%
+UE ID : 1879Signals : 7733
+Session successful rate :   100%
+UE ID : 1880Signals : 7933
+Session successful rate :   100%
+UE ID : 1881Signals : 9661
+Session successful rate :   100%
+UE ID : 1882Signals : 11145
+Session successful rate :   100%
+UE ID : 1883Signals : 21385
+Session successful rate :   100%
+UE ID : 1884Signals : 22365
+Session successful rate :   100%
+UE ID : 1885Signals : 21269
+Session successful rate :   100%
+UE ID : 1886Signals : 9741
+Session successful rate :   100%
+UE ID : 1887Signals : 10849
+Session successful rate :   100%
+UE ID : 1888Signals : 17477
+Session successful rate :   100%
+UE ID : 1889Signals : 17701
+Session successful rate :   100%
+UE ID : 1890Signals : 17701
+Session successful rate :   100%
+UE ID : 1891Signals : 17705
+Session successful rate :   100%
+UE ID : 1892Signals : 13913
+Session successful rate :   100%
+UE ID : 1893Signals : 14105
+Session successful rate :   100%
+UE ID : 1894Signals : 20245
+Session successful rate :   100%
+UE ID : 1895Signals : 17217
+Session successful rate :   100%
+UE ID : 1896Signals : 17365
+Session successful rate :   100%
+UE ID : 1897Signals : 20641
+Session successful rate :   100%
+UE ID : 1898Signals : 5833
+Session successful rate :   100%
+UE ID : 1899Signals : 3393
+Session successful rate :   100%
+UE ID : 1900Signals : 1795
+Session successful rate :   100%
+UE ID : 1901Signals : 2067
+Session successful rate :   100%
+UE ID : 1902Signals : 2273
+Session successful rate :   100%
+UE ID : 1903Signals : 2829
+Session successful rate :   100%
+UE ID : 1904Signals : 2833
+Session successful rate :   100%
+UE ID : 1905Signals : 2777
+Session successful rate :   100%
+UE ID : 1906Signals : 2757
+Session successful rate :   100%
+UE ID : 1907Signals : 3233
+Session successful rate :   100%
+UE ID : 1908Signals : 3421
+Session successful rate :   100%
+UE ID : 1909Signals : 3961
+Session successful rate :   100%
+UE ID : 1910Signals : 4529
+Session successful rate :   100%
+UE ID : 1911Signals : 5445
+Session successful rate :   100%
+UE ID : 1912Signals : 5613
+Session successful rate :   100%
+UE ID : 1913Signals : 5261
+Session successful rate :   100%
+UE ID : 1914Signals : 8417
+Session successful rate :   100%
+UE ID : 1915Signals : 7105
+Session successful rate :   100%
+UE ID : 1916Signals : 8457
+Session successful rate :   100%
+UE ID : 1917Signals : 4565
+Session successful rate :   100%
+UE ID : 1918Signals : 3593
+Session successful rate :   100%
+UE ID : 1919Signals : 3385
+Session successful rate :   100%
+UE ID : 1920Signals : 2897
+Session successful rate :   100%
+UE ID : 1921Signals : 2387
+Session successful rate :   100%
+UE ID : 1922Signals : 2315
+Session successful rate :   100%
+UE ID : 1923Signals : 1879
+Session successful rate :   100%
+UE ID : 1924Signals : 2267
+Session successful rate :   100%
+UE ID : 1925Signals : 2557
+Session successful rate :   100%
+UE ID : 1926Signals : 2657
+Session successful rate :   100%
+UE ID : 1927Signals : 2657
+Session successful rate :   100%
+UE ID : 1928Signals : 2657
+Session successful rate :   100%
+UE ID : 1929Signals : 2649
+Session successful rate :   100%
+UE ID : 1930Signals : 2425
+Session successful rate :   100%
+UE ID : 1931Signals : 2173
+Session successful rate :   100%
+UE ID : 1932Signals : 2173
+Session successful rate :   100%
+UE ID : 1933Signals : 2197
+Session successful rate :   100%
+UE ID : 1934Signals : 3577
+Session successful rate :   100%
+UE ID : 1935Signals : 4761
+Session successful rate :   100%
+UE ID : 1936Signals : 11465
+Session successful rate :   100%
+UE ID : 1937Signals : 11657
+Session successful rate :   100%
+UE ID : 1938Signals : 11657
+Session successful rate :   100%
+UE ID : 1939Signals : 11657
+Session successful rate :   100%
+UE ID : 1940Signals : 11621
+Session successful rate :   100%
+UE ID : 1941Signals : 11085
+Session successful rate :   100%
+UE ID : 1942Signals : 25185
+Session successful rate :   100%
+UE ID : 1943Signals : 25185
+Session successful rate :   100%
+UE ID : 1944Signals : 18469
+Session successful rate :   100%
+UE ID : 1945Signals : 9809
+Session successful rate :   100%
+UE ID : 1946Signals : 31349
+Session successful rate :   100%
+UE ID : 1947Signals : 37097
+Session successful rate :   100%
+UE ID : 1948Signals : 40545
+Session successful rate :   100%
+UE ID : 1949Signals : 36921
+Session successful rate :   100%
+UE ID : 1950Signals : 19241
+Session successful rate :   100%
+UE ID : 1951Signals : 16757
+Session successful rate :   100%
+UE ID : 1952Signals : 20825
+Session successful rate :   100%
+UE ID : 1953Signals : 22045
+Session successful rate :   100%
+UE ID : 1954Signals : 20493
+Session successful rate :   100%
+UE ID : 1955Signals : 21321
+Session successful rate :   100%
+UE ID : 1956Signals : 23917
+Session successful rate :   100%
+UE ID : 1957Signals : 20977
+Session successful rate :   100%
+UE ID : 1958Signals : 10181
+Session successful rate :   100%
+UE ID : 1959Signals : 5213
+Session successful rate :   100%
+UE ID : 1960Signals : 3053
+Session successful rate :   100%
+UE ID : 1961Signals : 3045
+Session successful rate :   100%
+UE ID : 1962Signals : 3045
+Session successful rate :   100%
+UE ID : 1963Signals : 3045
+Session successful rate :   100%
+UE ID : 1964Signals : 3045
+Session successful rate :   100%
+UE ID : 1965Signals : 3045
+Session successful rate :   100%
+UE ID : 1966Signals : 6817
+Session successful rate :   100%
+UE ID : 1967Signals : 7049
+Session successful rate :   100%
+UE ID : 1968Signals : 7049
+Session successful rate :   100%
+UE ID : 1969Signals : 7049
+Session successful rate :   100%
+UE ID : 1970Signals : 7149
+Session successful rate :   100%
+UE ID : 1971Signals : 7405
+Session successful rate :   100%
+UE ID : 1972Signals : 6961
+Session successful rate :   100%
+UE ID : 1973Signals : 8901
+Session successful rate :   100%
+UE ID : 1974Signals : 10465
+Session successful rate :   100%
+UE ID : 1975Signals : 8273
+Session successful rate :   100%
+UE ID : 1976Signals : 7125
+Session successful rate :   100%
+UE ID : 1977Signals : 7733
+Session successful rate :   100%
+UE ID : 1978Signals : 7937
+Session successful rate :   100%
+UE ID : 1979Signals : 7909
+Session successful rate :   100%
+UE ID : 1980Signals : 8549
+Session successful rate :   100%
+UE ID : 1981Signals : 10837
+Session successful rate :   100%
+UE ID : 1982Signals : 9733
+Session successful rate :   100%
+UE ID : 1983Signals : 14537
+Session successful rate :   100%
+UE ID : 1984Signals : 19421
+Session successful rate :   100%
+UE ID : 1985Signals : 12985
+Session successful rate :   100%
+UE ID : 1986Signals : 7705
+Session successful rate :   100%
+UE ID : 1987Signals : 7705
+Session successful rate :   100%
+UE ID : 1988Signals : 15877
+Session successful rate :   100%
+UE ID : 1989Signals : 22613
+Session successful rate :   100%
+UE ID : 1990Signals : 18417
+Session successful rate :   100%
+UE ID : 1991Signals : 16625
+Session successful rate :   100%
+UE ID : 1992Signals : 12441
+Session successful rate :   100%
+UE ID : 1993Signals : 12297
+Session successful rate :   100%
+UE ID : 1994Signals : 10949
+Session successful rate :   100%
+UE ID : 1995Signals : 10337
+Session successful rate :   100%
+UE ID : 1996Signals : 10585
+Session successful rate :   100%
+UE ID : 1997Signals : 10141
+Session successful rate :   100%
+UE ID : 1998Signals : 2741
+Session successful rate :   100%
+UE ID : 1999Signals : 2217
+Session successful rate :   100%
+UE ID : 2000Signals : 1871
+Session successful rate :   100%
+Average successful rate : 100.000000%
+Total signals : 16119620
