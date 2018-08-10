@@ -1,0 +1,88 @@
+Number of devices : 40
+Reservation scheme : Multiplicative scheme
+Monthly data allowance : 13000
+Default GU :    50
+Data collection period : 0.0
+
+UE ID : 314Signals : 2293
+Session successful rate :    83%
+UE ID : 462Signals : 3933
+Session successful rate :    83%
+UE ID : 958Signals : 6869
+Session successful rate :    83%
+UE ID : 1538Signals : 5013
+Session successful rate :    83%
+UE ID : 2335Signals : 5041
+Session successful rate :    83%
+UE ID : 2590Signals : 8345
+Session successful rate :    83%
+UE ID : 2652Signals : 6957
+Session successful rate :    83%
+UE ID : 2706Signals : 5033
+Session successful rate :    83%
+UE ID : 2745Signals : 6257
+Session successful rate :    83%
+UE ID : 2750Signals : 5565
+Session successful rate :    83%
+UE ID : 2879Signals : 5405
+Session successful rate :    83%
+UE ID : 3576Signals : 5233
+Session successful rate :    83%
+UE ID : 4089Signals : 5125
+Session successful rate :    83%
+UE ID : 4346Signals : 15057
+Session successful rate :    83%
+UE ID : 4557Signals : 21529
+Session successful rate :    83%
+UE ID : 4705Signals : 3701
+Session successful rate :    83%
+UE ID : 4808Signals : 4785
+Session successful rate :    83%
+UE ID : 4826Signals : 16461
+Session successful rate :    83%
+UE ID : 5169Signals : 20993
+Session successful rate :    83%
+UE ID : 5505Signals : 1567
+Session successful rate :    83%
+UE ID : 5625Signals : 9477
+Session successful rate :    83%
+UE ID : 5648Signals : 10149
+Session successful rate :    83%
+UE ID : 5822Signals : 3793
+Session successful rate :    83%
+UE ID : 5868Signals : 23201
+Session successful rate :    83%
+UE ID : 5991Signals : 3893
+Session successful rate :    83%
+UE ID : 6431Signals : 3121
+Session successful rate :    83%
+UE ID : 6568Signals : 16517
+Session successful rate :    83%
+UE ID : 6619Signals : 5189
+Session successful rate :    83%
+UE ID : 6950Signals : 13241
+Session successful rate :    83%
+UE ID : 7022Signals : 3401
+Session successful rate :    83%
+UE ID : 7141Signals : 10837
+Session successful rate :    83%
+UE ID : 7750Signals : 8157
+Session successful rate :    83%
+UE ID : 7825Signals : 4777
+Session successful rate :    83%
+UE ID : 7867Signals : 12665
+Session successful rate :    83%
+UE ID : 8384Signals : 8889
+Session successful rate :    83%
+UE ID : 8406Signals : 7049
+Session successful rate :    83%
+UE ID : 8421Signals : 6733
+Session successful rate :    83%
+UE ID : 8491Signals : 10861
+Session successful rate :    83%
+UE ID : 9124Signals : 7153
+Session successful rate :    83%
+UE ID : 9215Signals : 5741
+Session successful rate :    83%
+Average successful rate : 83.229167%
+Total signals : 330006

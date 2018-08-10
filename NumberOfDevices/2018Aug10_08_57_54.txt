@@ -1,0 +1,68 @@
+Number of devices : 30
+Reservation scheme : Fixed scheme
+Monthly data allowance : 9750
+Default GU :    50
+Data collection period : 0.0
+
+UE ID : 1005Signals : 2341
+Session successful rate :   100%
+UE ID : 1028Signals : 2817
+Session successful rate :   100%
+UE ID : 1107Signals : 1353
+Session successful rate :   100%
+UE ID : 1189Signals : 2443
+Session successful rate :   100%
+UE ID : 1205Signals : 3029
+Session successful rate :   100%
+UE ID : 1388Signals : 12917
+Session successful rate :   100%
+UE ID : 1838Signals : 11657
+Session successful rate :   100%
+UE ID : 2022Signals : 3601
+Session successful rate :   100%
+UE ID : 2312Signals : 5521
+Session successful rate :   100%
+UE ID : 2866Signals : 15637
+Session successful rate :   100%
+UE ID : 3336Signals : 46513
+Session successful rate :   100%
+UE ID : 3870Signals : 53909
+Session successful rate :   100%
+UE ID : 4238Signals : 36873
+Session successful rate :   100%
+UE ID : 4975Signals : 12373
+Session successful rate :   100%
+UE ID : 4979Signals : 34993
+Session successful rate :   100%
+UE ID : 5284Signals : 4031
+Session successful rate :   100%
+UE ID : 5322Signals : 14565
+Session successful rate :   100%
+UE ID : 5364Signals : 54237
+Session successful rate :   100%
+UE ID : 5434Signals : 12989
+Session successful rate :   100%
+UE ID : 5500Signals : 16849
+Session successful rate :   100%
+UE ID : 5569Signals : 136945
+Session successful rate :   100%
+UE ID : 6283Signals : 15341
+Session successful rate :   100%
+UE ID : 6539Signals : 11889
+Session successful rate :   100%
+UE ID : 6898Signals : 12953
+Session successful rate :   100%
+UE ID : 7686Signals : 13757
+Session successful rate :   100%
+UE ID : 7853Signals : 41229
+Session successful rate :   100%
+UE ID : 8539Signals : 26733
+Session successful rate :   100%
+UE ID : 8661Signals : 47581
+Session successful rate :   100%
+UE ID : 8753Signals : 32937
+Session successful rate :   100%
+UE ID : 8980Signals : 18589
+Session successful rate :   100%
+Average successful rate : 100.000000%
+Total signals : 706602

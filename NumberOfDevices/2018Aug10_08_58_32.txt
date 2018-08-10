@@ -1,0 +1,68 @@
+Number of devices : 30
+Reservation scheme : Inventory-based Reservation Scheme
+Monthly data allowance : 9750
+Default GU :    50
+Data collection period : 5.0
+
+UE ID : 1005Signals : 427
+Session successful rate :   100%
+UE ID : 1028Signals : 517
+Session successful rate :   100%
+UE ID : 1107Signals : 487
+Session successful rate :   100%
+UE ID : 1189Signals : 831
+Session successful rate :   100%
+UE ID : 1205Signals : 477
+Session successful rate :   100%
+UE ID : 1388Signals : 821
+Session successful rate :   100%
+UE ID : 1838Signals : 647
+Session successful rate :   100%
+UE ID : 2022Signals : 567
+Session successful rate :   100%
+UE ID : 2312Signals : 457
+Session successful rate :   100%
+UE ID : 2866Signals : 707
+Session successful rate :   100%
+UE ID : 3336Signals : 427
+Session successful rate :   100%
+UE ID : 3870Signals : 497
+Session successful rate :   100%
+UE ID : 4238Signals : 627
+Session successful rate :   100%
+UE ID : 4975Signals : 247
+Session successful rate :   100%
+UE ID : 4979Signals : 337
+Session successful rate :   100%
+UE ID : 5284Signals :  97
+Session successful rate :   100%
+UE ID : 5322Signals : 487
+Session successful rate :   100%
+UE ID : 5364Signals : 737
+Session successful rate :   100%
+UE ID : 5434Signals : 487
+Session successful rate :   100%
+UE ID : 5500Signals : 507
+Session successful rate :   100%
+UE ID : 5569Signals : 427
+Session successful rate :   100%
+UE ID : 6283Signals : 487
+Session successful rate :   100%
+UE ID : 6539Signals : 717
+Session successful rate :   100%
+UE ID : 6898Signals : 407
+Session successful rate :   100%
+UE ID : 7686Signals : 577
+Session successful rate :   100%
+UE ID : 7853Signals : 467
+Session successful rate :   100%
+UE ID : 8539Signals : 657
+Session successful rate :   100%
+UE ID : 8661Signals : 397
+Session successful rate :   100%
+UE ID : 8753Signals : 487
+Session successful rate :   100%
+UE ID : 8980Signals : 1031
+Session successful rate :   100%
+Average successful rate : 100.000000%
+Total signals : 16042
