@@ -1,0 +1,30 @@
+Number of devices : 7
+Reservation scheme : Inventory-based Reservation Scheme
+Monthly data allowance : 875
+Default GU :    10
+Data collection period : 150.0
+
+UE ID : 84663 Signals : 580
+Interaction times : 124
+Session successful rate :    67%
+UE ID : 280543 Signals : 580
+Interaction times : 124
+Session successful rate :    67%
+UE ID : 325159 Signals : 570
+Interaction times : 122
+Session successful rate :    67%
+UE ID : 445104 Signals : 590
+Interaction times : 126
+Session successful rate :    66%
+UE ID : 493800 Signals : 580
+Interaction times : 124
+Session successful rate :    66%
+UE ID : 1240918 Signals : 580
+Interaction times : 124
+Session successful rate :    66%
+UE ID : 1285262 Signals : 580
+Interaction times : 124
+Session successful rate :    66%
+Average successful rate : 66.326531%
+Total signals :  4060
+Total interaction times :   868
