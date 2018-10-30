@@ -1,0 +1,30 @@
+Number of devices : 7
+Reservation scheme : Fixed scheme
+Monthly data allowance : 875
+Default GU :    40
+Data collection period : 0.0
+
+UE ID : 292722 Signals : 569
+Interaction times : 249
+Session successful rate :    79%
+UE ID : 493512 Signals : 799
+Interaction times : 295
+Session successful rate :    64%
+UE ID : 766939 Signals : 699
+Interaction times : 275
+Session successful rate :    70%
+UE ID : 932241 Signals : 779
+Interaction times : 291
+Session successful rate :    65%
+UE ID : 1007091 Signals : 759
+Interaction times : 287
+Session successful rate :    67%
+UE ID : 1264262 Signals : 699
+Interaction times : 275
+Session successful rate :    70%
+UE ID : 1290873 Signals : 779
+Interaction times : 291
+Session successful rate :    65%
+Average successful rate : 68.707483%
+Total signals :  5083
+Total interaction times :  1963
