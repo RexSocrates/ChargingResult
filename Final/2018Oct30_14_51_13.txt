@@ -1,0 +1,12 @@
+Number of devices : 1
+Reservation scheme : Fixed scheme
+Monthly data allowance : 500
+Default GU :    40
+Data collection period : 0.0
+
+UE ID : 493512 Signals : 229
+Interaction times : 181
+Session successful rate :   100%
+Average successful rate : 100.000000%
+Total signals :   229
+Total interaction times :   181
